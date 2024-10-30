@@ -1,0 +1,10 @@
+Data/**/*.csv filter=lfs diff=lfs merge=lfs -text
+Data/modelTraining/trainData.csv filter=lfs diff=lfs merge=lfs -text
+Data/CleanedScaledData/CHIP/CHIPwithScaledData.csv filter=lfs diff=lfs merge=lfs -text
+Data/ATACseq/ATACseqPeakOverlap.csv filter=lfs diff=lfs merge=lfs -text
+Data/ATACseq/ATACseqPeakOverlap_v2.csv filter=lfs diff=lfs merge=lfs -text
+Data/CHiP_Histone/CHIPseqPeakOverlap.csv filter=lfs diff=lfs merge=lfs -text
+Data/DHS/DHS_PeakOverlap.csv filter=lfs diff=lfs merge=lfs -text
+Data.zip filter=lfs diff=lfs merge=lfs -text
+Figure.zip filter=lfs diff=lfs merge=lfs -text
+Figure/ filter=lfs diff=lfs merge=lfs -text
