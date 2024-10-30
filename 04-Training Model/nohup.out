@@ -1,0 +1,789 @@
+[I 2024-10-10 16:22:05,090] A new study created in memory with name: no-name-c4b5681e-98f1-4288-b940-37f3d1a65d0a
+  0%|          | 0/100 [00:00<?, ?it/s]                                         0%|          | 0/100 [00:01<?, ?it/s]Best trial: 0. Best value: 0.989692:   0%|          | 0/100 [00:01<?, ?it/s]Best trial: 0. Best value: 0.989692:   1%|          | 1/100 [00:01<02:03,  1.24s/it]                                                                                    Best trial: 0. Best value: 0.989692:   1%|          | 1/100 [00:09<02:03,  1.24s/it]Best trial: 1. Best value: 0.870971:   1%|          | 1/100 [00:09<02:03,  1.24s/it]Best trial: 1. Best value: 0.870971:   2%|▏         | 2/100 [00:09<08:28,  5.19s/it]                                                                                    Best trial: 1. Best value: 0.870971:   2%|▏         | 2/100 [00:14<08:28,  5.19s/it]Best trial: 2. Best value: 0.851565:   2%|▏         | 2/100 [00:14<08:28,  5.19s/it]Best trial: 2. Best value: 0.851565:   3%|▎         | 3/100 [00:14<08:23,  5.19s/it]                                                                                    Best trial: 2. Best value: 0.851565:   3%|▎         | 3/100 [00:15<08:23,  5.19s/it]Best trial: 2. Best value: 0.851565:   3%|▎         | 3/100 [00:15<08:23,  5.19s/it]Best trial: 2. Best value: 0.851565:   4%|▍         | 4/100 [00:15<05:56,  3.72s/it]                                                                                    Best trial: 2. Best value: 0.851565:   4%|▍         | 4/100 [00:24<05:56,  3.72s/it]Best trial: 2. Best value: 0.851565:   4%|▍         | 4/100 [00:24<05:56,  3.72s/it]Best trial: 2. Best value: 0.851565:   5%|▌         | 5/100 [00:24<08:51,  5.60s/it]                                                                                    Best trial: 2. Best value: 0.851565:   5%|▌         | 5/100 [00:34<08:51,  5.60s/it]Best trial: 2. Best value: 0.851565:   5%|▌         | 5/100 [00:34<08:51,  5.60s/it]Best trial: 2. Best value: 0.851565:   6%|▌         | 6/100 [00:34<10:59,  7.01s/it]                                                                                    Best trial: 2. Best value: 0.851565:   6%|▌         | 6/100 [00:41<10:59,  7.01s/it]Best trial: 2. Best value: 0.851565:   6%|▌         | 6/100 [00:41<10:59,  7.01s/it]Best trial: 2. Best value: 0.851565:   7%|▋         | 7/100 [00:41<10:37,  6.86s/it]                                                                                    Best trial: 2. Best value: 0.851565:   7%|▋         | 7/100 [00:42<10:37,  6.86s/it]Best trial: 2. Best value: 0.851565:   7%|▋         | 7/100 [00:42<10:37,  6.86s/it]Best trial: 2. Best value: 0.851565:   8%|▊         | 8/100 [00:42<07:55,  5.17s/it]                                                                                    Best trial: 2. Best value: 0.851565:   8%|▊         | 8/100 [00:46<07:55,  5.17s/it]Best trial: 2. Best value: 0.851565:   8%|▊         | 8/100 [00:46<07:55,  5.17s/it]Best trial: 2. Best value: 0.851565:   9%|▉         | 9/100 [00:46<07:16,  4.80s/it]                                                                                    Best trial: 2. Best value: 0.851565:   9%|▉         | 9/100 [00:54<07:16,  4.80s/it]Best trial: 2. Best value: 0.851565:   9%|▉         | 9/100 [00:54<07:16,  4.80s/it]Best trial: 2. Best value: 0.851565:  10%|█         | 10/100 [00:54<08:25,  5.62s/it]                                                                                     Best trial: 2. Best value: 0.851565:  10%|█         | 10/100 [00:58<08:25,  5.62s/it]Best trial: 10. Best value: 0.849503:  10%|█         | 10/100 [00:58<08:25,  5.62s/it]Best trial: 10. Best value: 0.849503:  11%|█         | 11/100 [00:58<07:46,  5.24s/it]                                                                                      Best trial: 10. Best value: 0.849503:  11%|█         | 11/100 [01:08<07:46,  5.24s/it]Best trial: 10. Best value: 0.849503:  11%|█         | 11/100 [01:08<07:46,  5.24s/it]Best trial: 10. Best value: 0.849503:  12%|█▏        | 12/100 [01:08<09:37,  6.57s/it]                                                                                      Best trial: 10. Best value: 0.849503:  12%|█▏        | 12/100 [01:11<09:37,  6.57s/it]Best trial: 12. Best value: 0.849181:  12%|█▏        | 12/100 [01:11<09:37,  6.57s/it]Best trial: 12. Best value: 0.849181:  13%|█▎        | 13/100 [01:11<08:16,  5.70s/it]                                                                                      Best trial: 12. Best value: 0.849181:  13%|█▎        | 13/100 [01:16<08:16,  5.70s/it]Best trial: 12. Best value: 0.849181:  13%|█▎        | 13/100 [01:16<08:16,  5.70s/it]Best trial: 12. Best value: 0.849181:  14%|█▍        | 14/100 [01:16<07:45,  5.41s/it]                                                                                      Best trial: 12. Best value: 0.849181:  14%|█▍        | 14/100 [01:23<07:45,  5.41s/it]Best trial: 12. Best value: 0.849181:  14%|█▍        | 14/100 [01:23<07:45,  5.41s/it]Best trial: 12. Best value: 0.849181:  15%|█▌        | 15/100 [01:23<08:11,  5.79s/it]                                                                                      Best trial: 12. Best value: 0.849181:  15%|█▌        | 15/100 [01:26<08:11,  5.79s/it]Best trial: 12. Best value: 0.849181:  15%|█▌        | 15/100 [01:26<08:11,  5.79s/it]Best trial: 12. Best value: 0.849181:  16%|█▌        | 16/100 [01:26<07:08,  5.10s/it]                                                                                      Best trial: 12. Best value: 0.849181:  16%|█▌        | 16/100 [01:28<07:08,  5.10s/it]Best trial: 12. Best value: 0.849181:  16%|█▌        | 16/100 [01:28<07:08,  5.10s/it]Best trial: 12. Best value: 0.849181:  17%|█▋        | 17/100 [01:28<05:51,  4.24s/it]                                                                                        Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:06,369] Trial 0 finished with value: 0.9896915522395692 and parameters: {'lambda': 0.04656804637919568, 'alpha': 0.7608481233714796, 'subsample': 0.40006862489040695, 'colsample_bytree': 0.5813995435791038, 'max_depth': 3, 'learning_rate': 0.02860923983587054, 'n_estimators': 21}. Best is trial 0 with value: 0.9896915522395692.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:14,323] Trial 1 finished with value: 0.870971289542144 and parameters: {'lambda': 0.024112537061475744, 'alpha': 0.03864291653552653, 'subsample': 0.7232900404020142, 'colsample_bytree': 0.6515167086419769, 'max_depth': 8, 'learning_rate': 0.062131222669723714, 'n_estimators': 89}. Best is trial 1 with value: 0.870971289542144.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:19,506] Trial 2 finished with value: 0.851564780745653 and parameters: {'lambda': 0.0012869165107815027, 'alpha': 0.4806954824961602, 'subsample': 0.6503828814202761, 'colsample_bytree': 0.735213897067451, 'max_depth': 3, 'learning_rate': 0.060232345236378756, 'n_estimators': 81}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:20,968] Trial 3 finished with value: 1.0545196142131483 and parameters: {'lambda': 7.465283462691555, 'alpha': 0.017934807211789795, 'subsample': 0.8153935694015885, 'colsample_bytree': 0.9258334913776229, 'max_depth': 10, 'learning_rate': 0.026428219199563594, 'n_estimators': 6}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:29,907] Trial 4 finished with value: 0.8738951056271882 and parameters: {'lambda': 0.0047788310658577, 'alpha': 3.25514256249193, 'subsample': 0.4590081002998301, 'colsample_bytree': 0.6526645750030313, 'max_depth': 10, 'learning_rate': 0.1604164202069321, 'n_estimators': 70}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:39,661] Trial 5 finished with value: 0.8755910385147608 and parameters: {'lambda': 0.018283634209844524, 'alpha': 0.5571905096939267, 'subsample': 0.9007754031384237, 'colsample_bytree': 0.4109729664065151, 'max_depth': 8, 'learning_rate': 0.2966694655830419, 'n_estimators': 76}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:46,194] Trial 6 finished with value: 0.8584569439786841 and parameters: {'lambda': 0.013236585469415493, 'alpha': 1.4358772473434618, 'subsample': 0.4619356039465852, 'colsample_bytree': 0.6687361157055431, 'max_depth': 10, 'learning_rate': 0.08879063036373017, 'n_estimators': 31}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:47,761] Trial 7 finished with value: 0.9319924818736208 and parameters: {'lambda': 0.0033121827306255114, 'alpha': 0.0011952749874776889, 'subsample': 0.8073013197639346, 'colsample_bytree': 0.5269768696000354, 'max_depth': 4, 'learning_rate': 0.14798037462482114, 'n_estimators': 8}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:51,740] Trial 8 finished with value: 0.8566513350341198 and parameters: {'lambda': 0.19791122273579098, 'alpha': 0.0038629074184943235, 'subsample': 0.7535833221419705, 'colsample_bytree': 0.8198550160125587, 'max_depth': 2, 'learning_rate': 0.12480274035805092, 'n_estimators': 71}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:22:59,200] Trial 9 finished with value: 0.8539340089465302 and parameters: {'lambda': 0.04536459919009389, 'alpha': 0.0015842139594029103, 'subsample': 0.721537843549307, 'colsample_bytree': 0.7982767871318732, 'max_depth': 6, 'learning_rate': 0.28343383204125316, 'n_estimators': 60}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:03,575] Trial 10 finished with value: 0.849502803242244 and parameters: {'lambda': 0.0011057718797582434, 'alpha': 0.20010307919953207, 'subsample': 0.5718621995203722, 'colsample_bytree': 0.9925937090708492, 'max_depth': 5, 'learning_rate': 0.20177827775879079, 'n_estimators': 41}. Best is trial 10 with value: 0.849502803242244.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:13,177] Trial 11 finished with value: 0.8523247149934448 and parameters: {'lambda': 0.0010814733120668885, 'alpha': 0.2534822782998158, 'subsample': 0.588632308496877, 'colsample_bytree': 0.9978831755987974, 'max_depth': 5, 'learning_rate': 0.21156819834826587, 'n_estimators': 100}. Best is trial 10 with value: 0.849502803242244.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:16,891] Trial 12 finished with value: 0.8491811395565001 and parameters: {'lambda': 0.3077934779078749, 'alpha': 0.08222368634228075, 'subsample': 0.6018183354849301, 'colsample_bytree': 0.815228489461916, 'max_depth': 4, 'learning_rate': 0.2203910208904078, 'n_estimators': 41}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:21,632] Trial 13 finished with value: 0.8498572553451889 and parameters: {'lambda': 0.36615369823831945, 'alpha': 0.10223219301098602, 'subsample': 0.5739295845801331, 'colsample_bytree': 0.9041672801316589, 'max_depth': 5, 'learning_rate': 0.22372830694370238, 'n_estimators': 43}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:28,284] Trial 14 finished with value: 0.8514910994306673 and parameters: {'lambda': 1.1951871536634737, 'alpha': 7.519168398865189, 'subsample': 0.5675683483923714, 'colsample_bytree': 0.9976766651781257, 'max_depth': 7, 'learning_rate': 0.22432138579851008, 'n_estimators': 48}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:31,789] Trial 15 finished with value: 0.8493863797218253 and parameters: {'lambda': 1.1920690091221233, 'alpha': 0.01594667584421569, 'subsample': 0.6398019277384468, 'colsample_bytree': 0.8774980827947395, 'max_depth': 5, 'learning_rate': 0.19269881238962028, 'n_estimators': 33}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:34,017] Trial 16 finished with value: 0.8506075894307757 and parameters: {'lambda': 1.127170989608079, 'alpha': 0.012362656205405538, 'subsample': 0.6472732553238582, 'colsample_bytree': 0.8464465036487774, 'max_depth': 4, 'learning_rate': 0.25559575653098104, 'n_estimators': 23}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+Best trial: 12. Best value: 0.849181:  17%|█▋        | 17/100 [01:31<05:51,  4.24s/it]Best trial: 12. Best value: 0.849181:  17%|█▋        | 17/100 [01:31<05:51,  4.24s/it]Best trial: 12. Best value: 0.849181:  18%|█▊        | 18/100 [01:31<05:11,  3.80s/it]                                                                                      Best trial: 12. Best value: 0.849181:  18%|█▊        | 18/100 [01:35<05:11,  3.80s/it]Best trial: 12. Best value: 0.849181:  18%|█▊        | 18/100 [01:35<05:11,  3.80s/it]Best trial: 12. Best value: 0.849181:  19%|█▉        | 19/100 [01:35<05:07,  3.79s/it]                                                                                      Best trial: 12. Best value: 0.849181:  19%|█▉        | 19/100 [01:38<05:07,  3.79s/it]Best trial: 12. Best value: 0.849181:  19%|█▉        | 19/100 [01:38<05:07,  3.79s/it]Best trial: 12. Best value: 0.849181:  20%|██        | 20/100 [01:38<04:50,  3.63s/it]                                                                                      Best trial: 12. Best value: 0.849181:  20%|██        | 20/100 [01:41<04:50,  3.63s/it]Best trial: 12. Best value: 0.849181:  20%|██        | 20/100 [01:41<04:50,  3.63s/it]Best trial: 12. Best value: 0.849181:  21%|██        | 21/100 [01:41<04:26,  3.38s/it]                                                                                      Best trial: 12. Best value: 0.849181:  21%|██        | 21/100 [01:46<04:26,  3.38s/it]Best trial: 12. Best value: 0.849181:  21%|██        | 21/100 [01:46<04:26,  3.38s/it]Best trial: 12. Best value: 0.849181:  22%|██▏       | 22/100 [01:46<04:53,  3.76s/it]                                                                                      Best trial: 12. Best value: 0.849181:  22%|██▏       | 22/100 [01:52<04:53,  3.76s/it]Best trial: 12. Best value: 0.849181:  22%|██▏       | 22/100 [01:52<04:53,  3.76s/it]Best trial: 12. Best value: 0.849181:  23%|██▎       | 23/100 [01:52<05:49,  4.54s/it]                                                                                      Best trial: 12. Best value: 0.849181:  23%|██▎       | 23/100 [01:55<05:49,  4.54s/it]Best trial: 12. Best value: 0.849181:  23%|██▎       | 23/100 [01:55<05:49,  4.54s/it]Best trial: 12. Best value: 0.849181:  24%|██▍       | 24/100 [01:55<05:17,  4.18s/it]                                                                                      Best trial: 12. Best value: 0.849181:  24%|██▍       | 24/100 [01:58<05:17,  4.18s/it]Best trial: 12. Best value: 0.849181:  24%|██▍       | 24/100 [01:58<05:17,  4.18s/it]Best trial: 12. Best value: 0.849181:  25%|██▌       | 25/100 [01:58<04:38,  3.72s/it]                                                                                      Best trial: 12. Best value: 0.849181:  25%|██▌       | 25/100 [02:00<04:38,  3.72s/it]Best trial: 12. Best value: 0.849181:  25%|██▌       | 25/100 [02:00<04:38,  3.72s/it]Best trial: 12. Best value: 0.849181:  26%|██▌       | 26/100 [02:00<04:02,  3.28s/it]                                                                                      Best trial: 12. Best value: 0.849181:  26%|██▌       | 26/100 [02:05<04:02,  3.28s/it]Best trial: 12. Best value: 0.849181:  26%|██▌       | 26/100 [02:05<04:02,  3.28s/it]Best trial: 12. Best value: 0.849181:  27%|██▋       | 27/100 [02:05<04:35,  3.77s/it]                                                                                      Best trial: 12. Best value: 0.849181:  27%|██▋       | 27/100 [02:08<04:35,  3.77s/it]Best trial: 12. Best value: 0.849181:  27%|██▋       | 27/100 [02:08<04:35,  3.77s/it]Best trial: 12. Best value: 0.849181:  28%|██▊       | 28/100 [02:08<04:17,  3.58s/it]                                                                                      Best trial: 12. Best value: 0.849181:  28%|██▊       | 28/100 [02:11<04:17,  3.58s/it]Best trial: 12. Best value: 0.849181:  28%|██▊       | 28/100 [02:11<04:17,  3.58s/it]Best trial: 12. Best value: 0.849181:  29%|██▉       | 29/100 [02:11<03:54,  3.30s/it]                                                                                      Best trial: 12. Best value: 0.849181:  29%|██▉       | 29/100 [02:14<03:54,  3.30s/it]Best trial: 12. Best value: 0.849181:  29%|██▉       | 29/100 [02:14<03:54,  3.30s/it]Best trial: 12. Best value: 0.849181:  30%|███       | 30/100 [02:14<03:56,  3.38s/it]                                                                                      Best trial: 12. Best value: 0.849181:  30%|███       | 30/100 [02:16<03:56,  3.38s/it]Best trial: 12. Best value: 0.849181:  30%|███       | 30/100 [02:16<03:56,  3.38s/it]Best trial: 12. Best value: 0.849181:  31%|███       | 31/100 [02:16<03:23,  2.94s/it]                                                                                      Best trial: 12. Best value: 0.849181:  31%|███       | 31/100 [02:19<03:23,  2.94s/it]Best trial: 12. Best value: 0.849181:  31%|███       | 31/100 [02:19<03:23,  2.94s/it]Best trial: 12. Best value: 0.849181:  32%|███▏      | 32/100 [02:19<03:21,  2.96s/it]                                                                                      Best trial: 12. Best value: 0.849181:  32%|███▏      | 32/100 [02:22<03:21,  2.96s/it]Best trial: 12. Best value: 0.849181:  32%|███▏      | 32/100 [02:22<03:21,  2.96s/it]Best trial: 12. Best value: 0.849181:  33%|███▎      | 33/100 [02:22<03:11,  2.86s/it]                                                                                      Best trial: 12. Best value: 0.849181:  33%|███▎      | 33/100 [02:27<03:11,  2.86s/it]Best trial: 12. Best value: 0.849181:  33%|███▎      | 33/100 [02:27<03:11,  2.86s/it]Best trial: 12. Best value: 0.849181:  34%|███▍      | 34/100 [02:27<03:44,  3.40s/it]                                                                                      Best trial: 12. Best value: 0.849181:  34%|███▍      | 34/100 [02:31<03:44,  3.40s/it]Best trial: 34. Best value: 0.848955:  34%|███▍      | 34/100 [02:31<03:44,  3.40s/it]Best trial: 34. Best value: 0.848955:  35%|███▌      | 35/100 [02:31<04:05,  3.78s/it][I 2024-10-10 16:23:36,809] Trial 17 finished with value: 0.8562295917747708 and parameters: {'lambda': 8.991349805319151, 'alpha': 0.042521277967033054, 'subsample': 0.49785549043311766, 'colsample_bytree': 0.7479241892600101, 'max_depth': 2, 'learning_rate': 0.18068354848245605, 'n_estimators': 55}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:40,574] Trial 18 finished with value: 0.8504177458084846 and parameters: {'lambda': 1.729501856579257, 'alpha': 0.006766472491620508, 'subsample': 0.9286892021417427, 'colsample_bytree': 0.8885625706267151, 'max_depth': 6, 'learning_rate': 0.2501899415566714, 'n_estimators': 29}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:43,840] Trial 19 finished with value: 0.8496438008606314 and parameters: {'lambda': 0.2868256357583114, 'alpha': 0.05021512076883712, 'subsample': 0.6534961244893153, 'colsample_bytree': 0.7823624850861323, 'max_depth': 4, 'learning_rate': 0.17855754090721582, 'n_estimators': 37}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:46,616] Trial 20 finished with value: 0.8628320620990965 and parameters: {'lambda': 2.704618355708936, 'alpha': 0.0032742299229667655, 'subsample': 0.7885473979962738, 'colsample_bytree': 0.8686844635255788, 'max_depth': 7, 'learning_rate': 0.1140412031729681, 'n_estimators': 17}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:51,266] Trial 21 finished with value: 0.8496840389648921 and parameters: {'lambda': 0.6046398426181349, 'alpha': 0.11280833617684471, 'subsample': 0.5210281048006101, 'colsample_bytree': 0.9494460112101999, 'max_depth': 5, 'learning_rate': 0.18771855248313465, 'n_estimators': 41}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:23:57,625] Trial 22 finished with value: 0.8500566963628342 and parameters: {'lambda': 0.09047521907089445, 'alpha': 0.23271088572213156, 'subsample': 0.6053995734497873, 'colsample_bytree': 0.9512076712500895, 'max_depth': 5, 'learning_rate': 0.20108322863864625, 'n_estimators': 62}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:00,968] Trial 23 finished with value: 0.8501191553176302 and parameters: {'lambda': 0.13174557512161522, 'alpha': 0.020532724127476136, 'subsample': 0.6651786316690144, 'colsample_bytree': 0.8544687594569889, 'max_depth': 3, 'learning_rate': 0.2460900845317348, 'n_estimators': 50}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:03,599] Trial 24 finished with value: 0.8502853319087567 and parameters: {'lambda': 3.674012332837082, 'alpha': 0.1430858506855771, 'subsample': 0.5513792001872575, 'colsample_bytree': 0.9267523302539034, 'max_depth': 4, 'learning_rate': 0.153594521649575, 'n_estimators': 32}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:05,854] Trial 25 finished with value: 0.8524789075219257 and parameters: {'lambda': 0.6356120098962121, 'alpha': 0.06327279330849434, 'subsample': 0.99847609506143, 'colsample_bytree': 0.763878816769684, 'max_depth': 7, 'learning_rate': 0.2681804876579178, 'n_estimators': 14}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:10,776] Trial 26 finished with value: 0.8512843084208334 and parameters: {'lambda': 0.5576315689956413, 'alpha': 0.021880258803160406, 'subsample': 0.6159967122255644, 'colsample_bytree': 0.9615167864294373, 'max_depth': 6, 'learning_rate': 0.23183706654114436, 'n_estimators': 43}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:13,902] Trial 27 finished with value: 0.8517901674030742 and parameters: {'lambda': 0.09018726089737893, 'alpha': 0.008507907678843588, 'subsample': 0.6939525460060234, 'colsample_bytree': 0.8365043787678291, 'max_depth': 6, 'learning_rate': 0.2076771254089364, 'n_estimators': 26}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:16,545] Trial 28 finished with value: 0.8510228093185255 and parameters: {'lambda': 0.005139061443863048, 'alpha': 2.2206679877907347, 'subsample': 0.5225219184398184, 'colsample_bytree': 0.7002641358076438, 'max_depth': 3, 'learning_rate': 0.17129250006803576, 'n_estimators': 37}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:20,103] Trial 29 finished with value: 0.8678931101378842 and parameters: {'lambda': 0.04674423283145511, 'alpha': 0.363196431384743, 'subsample': 0.4535469526387498, 'colsample_bytree': 0.600169743530681, 'max_depth': 4, 'learning_rate': 0.1352346681792682, 'n_estimators': 56}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:22,035] Trial 30 finished with value: 0.851512749507415 and parameters: {'lambda': 4.46483204904922, 'alpha': 1.0132501913141627, 'subsample': 0.42873853902185133, 'colsample_bytree': 0.8921451909178041, 'max_depth': 5, 'learning_rate': 0.19772851507244354, 'n_estimators': 19}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:25,047] Trial 31 finished with value: 0.8496132610392603 and parameters: {'lambda': 0.2285594834969783, 'alpha': 0.04961755724843411, 'subsample': 0.6803675569613299, 'colsample_bytree': 0.7854663869245113, 'max_depth': 4, 'learning_rate': 0.17512291175074088, 'n_estimators': 37}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:27,680] Trial 32 finished with value: 0.8500768166197077 and parameters: {'lambda': 0.18844165215391606, 'alpha': 0.029270804297124222, 'subsample': 0.6915715270083619, 'colsample_bytree': 0.8043907189402834, 'max_depth': 3, 'learning_rate': 0.23671175821771126, 'n_estimators': 38}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:32,339] Trial 33 finished with value: 0.8492431706074495 and parameters: {'lambda': 0.04791629400313251, 'alpha': 0.07000761147245214, 'subsample': 0.6203543038610753, 'colsample_bytree': 0.7226902858256976, 'max_depth': 5, 'learning_rate': 0.10757090503796006, 'n_estimators': 48}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:37,014] Trial 34 finished with value: 0.8489552747540444 and parameters: {'lambda': 0.009906029752278573, 'alpha': 0.07467094407104397, 'subsample': 0.6295444239680215, 'colsample_bytree': 0.6884341866465704, 'max_depth': 5, 'learning_rate': 0.1124648018883324, 'n_estimators': 48}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+                                                                                      Best trial: 34. Best value: 0.848955:  35%|███▌      | 35/100 [02:38<04:05,  3.78s/it]Best trial: 34. Best value: 0.848955:  35%|███▌      | 35/100 [02:38<04:05,  3.78s/it]Best trial: 34. Best value: 0.848955:  36%|███▌      | 36/100 [02:38<04:53,  4.58s/it]                                                                                      Best trial: 34. Best value: 0.848955:  36%|███▌      | 36/100 [02:43<04:53,  4.58s/it]Best trial: 34. Best value: 0.848955:  36%|███▌      | 36/100 [02:43<04:53,  4.58s/it]Best trial: 34. Best value: 0.848955:  37%|███▋      | 37/100 [02:43<04:59,  4.75s/it]                                                                                      Best trial: 34. Best value: 0.848955:  37%|███▋      | 37/100 [02:49<04:59,  4.75s/it]Best trial: 34. Best value: 0.848955:  37%|███▋      | 37/100 [02:49<04:59,  4.75s/it]Best trial: 34. Best value: 0.848955:  38%|███▊      | 38/100 [02:49<05:18,  5.14s/it]                                                                                      Best trial: 34. Best value: 0.848955:  38%|███▊      | 38/100 [02:52<05:18,  5.14s/it]Best trial: 34. Best value: 0.848955:  38%|███▊      | 38/100 [02:52<05:18,  5.14s/it]Best trial: 34. Best value: 0.848955:  39%|███▉      | 39/100 [02:52<04:36,  4.53s/it]                                                                                      Best trial: 34. Best value: 0.848955:  39%|███▉      | 39/100 [02:59<04:36,  4.53s/it]Best trial: 34. Best value: 0.848955:  39%|███▉      | 39/100 [02:59<04:36,  4.53s/it]Best trial: 34. Best value: 0.848955:  40%|████      | 40/100 [02:59<05:17,  5.29s/it]                                                                                      Best trial: 34. Best value: 0.848955:  40%|████      | 40/100 [03:15<05:17,  5.29s/it]Best trial: 34. Best value: 0.848955:  40%|████      | 40/100 [03:15<05:17,  5.29s/it]Best trial: 34. Best value: 0.848955:  41%|████      | 41/100 [03:15<08:19,  8.47s/it]                                                                                      Best trial: 34. Best value: 0.848955:  41%|████      | 41/100 [03:18<08:19,  8.47s/it]Best trial: 34. Best value: 0.848955:  41%|████      | 41/100 [03:18<08:19,  8.47s/it]Best trial: 34. Best value: 0.848955:  42%|████▏     | 42/100 [03:18<06:39,  6.89s/it]                                                                                      Best trial: 34. Best value: 0.848955:  42%|████▏     | 42/100 [03:22<06:39,  6.89s/it]Best trial: 34. Best value: 0.848955:  42%|████▏     | 42/100 [03:22<06:39,  6.89s/it]Best trial: 34. Best value: 0.848955:  43%|████▎     | 43/100 [03:22<05:32,  5.82s/it]                                                                                      Best trial: 34. Best value: 0.848955:  43%|████▎     | 43/100 [03:26<05:32,  5.82s/it]Best trial: 34. Best value: 0.848955:  43%|████▎     | 43/100 [03:26<05:32,  5.82s/it]Best trial: 34. Best value: 0.848955:  44%|████▍     | 44/100 [03:26<05:01,  5.38s/it]                                                                                      Best trial: 34. Best value: 0.848955:  44%|████▍     | 44/100 [03:31<05:01,  5.38s/it]Best trial: 34. Best value: 0.848955:  44%|████▍     | 44/100 [03:31<05:01,  5.38s/it]Best trial: 34. Best value: 0.848955:  45%|████▌     | 45/100 [03:31<04:49,  5.26s/it]                                                                                      Best trial: 34. Best value: 0.848955:  45%|████▌     | 45/100 [03:35<04:49,  5.26s/it]Best trial: 34. Best value: 0.848955:  45%|████▌     | 45/100 [03:35<04:49,  5.26s/it]Best trial: 34. Best value: 0.848955:  46%|████▌     | 46/100 [03:35<04:24,  4.90s/it]                                                                                      Best trial: 34. Best value: 0.848955:  46%|████▌     | 46/100 [03:40<04:24,  4.90s/it]Best trial: 46. Best value: 0.848947:  46%|████▌     | 46/100 [03:40<04:24,  4.90s/it]Best trial: 46. Best value: 0.848947:  47%|████▋     | 47/100 [03:40<04:14,  4.79s/it]                                                                                      Best trial: 46. Best value: 0.848947:  47%|████▋     | 47/100 [03:46<04:14,  4.79s/it]Best trial: 47. Best value: 0.848339:  47%|████▋     | 47/100 [03:46<04:14,  4.79s/it]Best trial: 47. Best value: 0.848339:  48%|████▊     | 48/100 [03:46<04:30,  5.20s/it]                                                                                      Best trial: 47. Best value: 0.848339:  48%|████▊     | 48/100 [03:50<04:30,  5.20s/it]Best trial: 47. Best value: 0.848339:  48%|████▊     | 48/100 [03:50<04:30,  5.20s/it]Best trial: 47. Best value: 0.848339:  49%|████▉     | 49/100 [03:50<04:14,  4.98s/it]                                                                                      Best trial: 47. Best value: 0.848339:  49%|████▉     | 49/100 [03:56<04:14,  4.98s/it]Best trial: 49. Best value: 0.847955:  49%|████▉     | 49/100 [03:56<04:14,  4.98s/it]Best trial: 49. Best value: 0.847955:  50%|█████     | 50/100 [03:56<04:27,  5.35s/it]                                                                                      Best trial: 49. Best value: 0.847955:  50%|█████     | 50/100 [04:04<04:27,  5.35s/it]Best trial: 49. Best value: 0.847955:  50%|█████     | 50/100 [04:04<04:27,  5.35s/it]Best trial: 49. Best value: 0.847955:  51%|█████     | 51/100 [04:04<04:58,  6.08s/it]                                                                                      Best trial: 49. Best value: 0.847955:  51%|█████     | 51/100 [04:12<04:58,  6.08s/it]Best trial: 49. Best value: 0.847955:  51%|█████     | 51/100 [04:12<04:58,  6.08s/it]Best trial: 49. Best value: 0.847955:  52%|█████▏    | 52/100 [04:12<05:23,  6.74s/it]                                                                                        Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:43,448] Trial 35 finished with value: 0.8497887177371852 and parameters: {'lambda': 0.011587528868376992, 'alpha': 0.07772275644531632, 'subsample': 0.7453797278341954, 'colsample_bytree': 0.6863133801439877, 'max_depth': 5, 'learning_rate': 0.06735769315934072, 'n_estimators': 64}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:48,598] Trial 36 finished with value: 0.8727976287190892 and parameters: {'lambda': 0.03674516426487657, 'alpha': 0.011454282879688776, 'subsample': 0.6239739144553708, 'colsample_bytree': 0.6084993059753172, 'max_depth': 8, 'learning_rate': 0.10206464322527684, 'n_estimators': 49}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:54,662] Trial 37 finished with value: 0.8500513616275361 and parameters: {'lambda': 0.007320397332916173, 'alpha': 0.035007119463644, 'subsample': 0.6289999681560012, 'colsample_bytree': 0.7204327682968219, 'max_depth': 6, 'learning_rate': 0.08167398849184827, 'n_estimators': 53}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:24:57,761] Trial 38 finished with value: 1.0642116848428342 and parameters: {'lambda': 0.0024244480777212384, 'alpha': 0.5853483667639133, 'subsample': 0.5163465247776202, 'colsample_bytree': 0.5528789183863085, 'max_depth': 3, 'learning_rate': 0.0038899838837162665, 'n_estimators': 47}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:04,821] Trial 39 finished with value: 0.8728929296483227 and parameters: {'lambda': 0.03247013071619124, 'alpha': 0.1574009405662895, 'subsample': 0.7214897715880285, 'colsample_bytree': 0.6482377964648967, 'max_depth': 4, 'learning_rate': 0.049607359166956355, 'n_estimators': 84}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:20,700] Trial 40 finished with value: 0.8587301556771143 and parameters: {'lambda': 0.06010671162882705, 'alpha': 0.3768415000967937, 'subsample': 0.5422459015039737, 'colsample_bytree': 0.7256579844752387, 'max_depth': 9, 'learning_rate': 0.1409171055712707, 'n_estimators': 68}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:23,918] Trial 41 finished with value: 0.8707080316174521 and parameters: {'lambda': 0.0014628440653652469, 'alpha': 0.18005993628843162, 'subsample': 0.5950428852354169, 'colsample_bytree': 0.6491358413858164, 'max_depth': 5, 'learning_rate': 0.11083192877277173, 'n_estimators': 44}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:27,254] Trial 42 finished with value: 0.8500799682009974 and parameters: {'lambda': 0.021852046647898252, 'alpha': 0.0800787277668316, 'subsample': 0.6377418023716562, 'colsample_bytree': 0.759062050940517, 'max_depth': 5, 'learning_rate': 0.1598844167947702, 'n_estimators': 34}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:31,612] Trial 43 finished with value: 0.858198888659732 and parameters: {'lambda': 0.0020969266235658646, 'alpha': 0.03132194271294237, 'subsample': 0.4925849192719972, 'colsample_bytree': 0.823727645821084, 'max_depth': 7, 'learning_rate': 0.09332007118090023, 'n_estimators': 26}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:36,574] Trial 44 finished with value: 0.8697022363790539 and parameters: {'lambda': 0.009134544962697428, 'alpha': 0.3239163966039878, 'subsample': 0.580355937040805, 'colsample_bytree': 0.43342287499958937, 'max_depth': 6, 'learning_rate': 0.21505670884055678, 'n_estimators': 57}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:40,644] Trial 45 finished with value: 0.869360129414832 and parameters: {'lambda': 0.0045820327389934044, 'alpha': 0.11277313986701117, 'subsample': 0.5547868961460275, 'colsample_bytree': 0.6266423644982237, 'max_depth': 5, 'learning_rate': 0.12558731778342877, 'n_estimators': 46}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:45,187] Trial 46 finished with value: 0.8489474768515212 and parameters: {'lambda': 0.14032519183572814, 'alpha': 0.0044745309481205135, 'subsample': 0.6740817358453021, 'colsample_bytree': 0.7061825275638003, 'max_depth': 4, 'learning_rate': 0.1658393205078727, 'n_estimators': 51}. Best is trial 46 with value: 0.8489474768515212.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:51,328] Trial 47 finished with value: 0.8483392134070182 and parameters: {'lambda': 0.12747858416470836, 'alpha': 0.0028669636870499097, 'subsample': 0.7722093371305793, 'colsample_bytree': 0.6959040770482339, 'max_depth': 4, 'learning_rate': 0.1308394301725256, 'n_estimators': 75}. Best is trial 47 with value: 0.8483392134070182.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:25:55,803] Trial 48 finished with value: 0.8582011982118267 and parameters: {'lambda': 0.06662158355514353, 'alpha': 0.0022202001911895614, 'subsample': 0.8506487781565548, 'colsample_bytree': 0.6887211666337254, 'max_depth': 2, 'learning_rate': 0.07885212373748385, 'n_estimators': 95}. Best is trial 47 with value: 0.8483392134070182.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:26:02,002] Trial 49 finished with value: 0.8479551493490314 and parameters: {'lambda': 0.13544951561665153, 'alpha': 0.0010181835507502832, 'subsample': 0.7885676744065945, 'colsample_bytree': 0.7090337807050557, 'max_depth': 4, 'learning_rate': 0.12136026483574651, 'n_estimators': 75}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:26:09,807] Trial 50 finished with value: 0.86725565780013 and parameters: {'lambda': 0.15176063235989778, 'alpha': 0.0011703098961199955, 'subsample': 0.7823819133354052, 'colsample_bytree': 0.5522997420393828, 'max_depth': 4, 'learning_rate': 0.1262604010265026, 'n_estimators': 77}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-10 16:26:18,075] Trial 51 finished with value: 0.8481488238100416 and parameters: {'lambda': 0.015579350723553795, 'alpha': 0.001899665458787777, 'subsample': 0.8434567813866429, 'colsample_bytree': 0.7056380012469836, 'max_depth': 4, 'learning_rate': 0.10796917445035736, 'n_estimators': 85}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+Best trial: 49. Best value: 0.847955:  52%|█████▏    | 52/100 [04:17<05:23,  6.74s/it]Best trial: 49. Best value: 0.847955:  52%|█████▏    | 52/100 [04:17<05:23,  6.74s/it]Best trial: 49. Best value: 0.847955:  53%|█████▎    | 53/100 [04:17<04:45,  6.06s/it]                                                                                      Best trial: 49. Best value: 0.847955:  53%|█████▎    | 53/100 [04:29<04:45,  6.06s/it]Best trial: 49. Best value: 0.847955:  53%|█████▎    | 53/100 [04:29<04:45,  6.06s/it]Best trial: 49. Best value: 0.847955:  54%|█████▍    | 54/100 [04:29<05:59,  7.81s/it]                                                                                      Best trial: 49. Best value: 0.847955:  54%|█████▍    | 54/100 [04:39<05:59,  7.81s/it]Best trial: 49. Best value: 0.847955:  54%|█████▍    | 54/100 [04:39<05:59,  7.81s/it]Best trial: 49. Best value: 0.847955:  55%|█████▌    | 55/100 [04:39<06:28,  8.63s/it]                                                                                      Best trial: 49. Best value: 0.847955:  55%|█████▌    | 55/100 [04:44<06:28,  8.63s/it]Best trial: 49. Best value: 0.847955:  55%|█████▌    | 55/100 [04:44<06:28,  8.63s/it]Best trial: 49. Best value: 0.847955:  56%|█████▌    | 56/100 [04:44<05:27,  7.44s/it]                                                                                      Best trial: 49. Best value: 0.847955:  56%|█████▌    | 56/100 [04:49<05:27,  7.44s/it]Best trial: 49. Best value: 0.847955:  56%|█████▌    | 56/100 [04:49<05:27,  7.44s/it]Best trial: 49. Best value: 0.847955:  57%|█████▋    | 57/100 [04:49<04:51,  6.78s/it]                                                                                      Best trial: 49. Best value: 0.847955:  57%|█████▋    | 57/100 [04:55<04:51,  6.78s/it]Best trial: 49. Best value: 0.847955:  57%|█████▋    | 57/100 [04:55<04:51,  6.78s/it]Best trial: 49. Best value: 0.847955:  58%|█████▊    | 58/100 [04:55<04:32,  6.49s/it]                                                                                      Best trial: 49. Best value: 0.847955:  58%|█████▊    | 58/100 [05:02<04:32,  6.49s/it]Best trial: 49. Best value: 0.847955:  58%|█████▊    | 58/100 [05:02<04:32,  6.49s/it]Best trial: 49. Best value: 0.847955:  59%|█████▉    | 59/100 [05:02<04:33,  6.68s/it]                                                                                      Best trial: 49. Best value: 0.847955:  59%|█████▉    | 59/100 [05:41<04:33,  6.68s/it]Best trial: 49. Best value: 0.847955:  59%|█████▉    | 59/100 [05:41<04:33,  6.68s/it]Best trial: 49. Best value: 0.847955:  60%|██████    | 60/100 [05:41<10:56, 16.42s/it]                                                                                      Best trial: 49. Best value: 0.847955:  60%|██████    | 60/100 [05:50<10:56, 16.42s/it]Best trial: 49. Best value: 0.847955:  60%|██████    | 60/100 [05:50<10:56, 16.42s/it]Best trial: 49. Best value: 0.847955:  61%|██████    | 61/100 [05:50<09:06, 14.02s/it]                                                                                      Best trial: 49. Best value: 0.847955:  61%|██████    | 61/100 [05:57<09:06, 14.02s/it]Best trial: 49. Best value: 0.847955:  61%|██████    | 61/100 [05:57<09:06, 14.02s/it]Best trial: 49. Best value: 0.847955:  62%|██████▏   | 62/100 [05:57<07:35, 11.99s/it]                                                                                      Best trial: 49. Best value: 0.847955:  62%|██████▏   | 62/100 [06:04<07:35, 11.99s/it]Best trial: 49. Best value: 0.847955:  62%|██████▏   | 62/100 [06:04<07:35, 11.99s/it]Best trial: 49. Best value: 0.847955:  63%|██████▎   | 63/100 [06:04<06:30, 10.56s/it]                                                                                      Best trial: 49. Best value: 0.847955:  63%|██████▎   | 63/100 [06:13<06:30, 10.56s/it]Best trial: 49. Best value: 0.847955:  63%|██████▎   | 63/100 [06:13<06:30, 10.56s/it]Best trial: 49. Best value: 0.847955:  64%|██████▍   | 64/100 [06:13<06:05, 10.14s/it]                                                                                      Best trial: 49. Best value: 0.847955:  64%|██████▍   | 64/100 [06:28<06:05, 10.14s/it]Best trial: 49. Best value: 0.847955:  64%|██████▍   | 64/100 [06:28<06:05, 10.14s/it]Best trial: 49. Best value: 0.847955:  65%|██████▌   | 65/100 [06:28<06:41, 11.47s/it]                                                                                      Best trial: 49. Best value: 0.847955:  65%|██████▌   | 65/100 [06:37<06:41, 11.47s/it]Best trial: 49. Best value: 0.847955:  65%|██████▌   | 65/100 [06:37<06:41, 11.47s/it]Best trial: 49. Best value: 0.847955:  66%|██████▌   | 66/100 [06:37<06:08, 10.84s/it][I 2024-10-15 10:00:26,636] A new study created in memory with name: no-name-4c245dce-e0ce-4dde-a2d6-8d2a008a3f52
+  0%|          | 0/100 [00:00<?, ?it/s]                                         0%|          | 0/100 [00:01<?, ?it/s]Best trial: 0. Best value: 0.989692:   0%|          | 0/100 [00:01<?, ?it/s]Best trial: 0. Best value: 0.989692:   1%|          | 1/100 [00:01<02:13,  1.35s/it]                                                                                    Best trial: 0. Best value: 0.989692:   1%|          | 1/100 [00:10<02:13,  1.35s/it]Best trial: 1. Best value: 0.870971:   1%|          | 1/100 [00:10<02:13,  1.35s/it]Best trial: 1. Best value: 0.870971:   2%|▏         | 2/100 [00:10<09:39,  5.92s/it]                                                                                    Best trial: 1. Best value: 0.870971:   2%|▏         | 2/100 [00:16<09:39,  5.92s/it]Best trial: 2. Best value: 0.851565:   2%|▏         | 2/100 [00:16<09:39,  5.92s/it]Best trial: 2. Best value: 0.851565:   3%|▎         | 3/100 [00:16<09:20,  5.77s/it]                                                                                    Best trial: 2. Best value: 0.851565:   3%|▎         | 3/100 [00:17<09:20,  5.77s/it]Best trial: 2. Best value: 0.851565:   3%|▎         | 3/100 [00:17<09:20,  5.77s/it]Best trial: 2. Best value: 0.851565:   4%|▍         | 4/100 [00:17<06:39,  4.16s/it]                                                                                    Best trial: 2. Best value: 0.851565:   4%|▍         | 4/100 [00:25<06:39,  4.16s/it]Best trial: 2. Best value: 0.851565:   4%|▍         | 4/100 [00:25<06:39,  4.16s/it]Best trial: 2. Best value: 0.851565:   5%|▌         | 5/100 [00:25<08:51,  5.59s/it]                                                                                    Best trial: 2. Best value: 0.851565:   5%|▌         | 5/100 [00:32<08:51,  5.59s/it]Best trial: 2. Best value: 0.851565:   5%|▌         | 5/100 [00:32<08:51,  5.59s/it]Best trial: 2. Best value: 0.851565:   6%|▌         | 6/100 [00:32<09:33,  6.10s/it]                                                                                    Best trial: 2. Best value: 0.851565:   6%|▌         | 6/100 [00:37<09:33,  6.10s/it]Best trial: 2. Best value: 0.851565:   6%|▌         | 6/100 [00:37<09:33,  6.10s/it]Best trial: 2. Best value: 0.851565:   7%|▋         | 7/100 [00:37<08:47,  5.67s/it]                                                                                    Best trial: 2. Best value: 0.851565:   7%|▋         | 7/100 [00:38<08:47,  5.67s/it]Best trial: 2. Best value: 0.851565:   7%|▋         | 7/100 [00:38<08:47,  5.67s/it]Best trial: 2. Best value: 0.851565:   8%|▊         | 8/100 [00:38<06:19,  4.13s/it]                                                                                    Best trial: 2. Best value: 0.851565:   8%|▊         | 8/100 [00:41<06:19,  4.13s/it]Best trial: 2. Best value: 0.851565:   8%|▊         | 8/100 [00:41<06:19,  4.13s/it]Best trial: 2. Best value: 0.851565:   9%|▉         | 9/100 [00:41<05:47,  3.82s/it]                                                                                    Best trial: 2. Best value: 0.851565:   9%|▉         | 9/100 [00:47<05:47,  3.82s/it]Best trial: 2. Best value: 0.851565:   9%|▉         | 9/100 [00:47<05:47,  3.82s/it]Best trial: 2. Best value: 0.851565:  10%|█         | 10/100 [00:47<06:46,  4.52s/it]                                                                                     Best trial: 2. Best value: 0.851565:  10%|█         | 10/100 [00:51<06:46,  4.52s/it]Best trial: 10. Best value: 0.849503:  10%|█         | 10/100 [00:51<06:46,  4.52s/it]Best trial: 10. Best value: 0.849503:  11%|█         | 11/100 [00:51<06:17,  4.24s/it]                                                                                      Best trial: 10. Best value: 0.849503:  11%|█         | 11/100 [00:59<06:17,  4.24s/it]Best trial: 10. Best value: 0.849503:  11%|█         | 11/100 [00:59<06:17,  4.24s/it]Best trial: 10. Best value: 0.849503:  12%|█▏        | 12/100 [00:59<07:56,  5.41s/it]                                                                                      Best trial: 10. Best value: 0.849503:  12%|█▏        | 12/100 [01:02<07:56,  5.41s/it]Best trial: 12. Best value: 0.849181:  12%|█▏        | 12/100 [01:02<07:56,  5.41s/it]Best trial: 12. Best value: 0.849181:  13%|█▎        | 13/100 [01:02<06:49,  4.71s/it]                                                                                      Best trial: 12. Best value: 0.849181:  13%|█▎        | 13/100 [01:06<06:49,  4.71s/it]Best trial: 12. Best value: 0.849181:  13%|█▎        | 13/100 [01:06<06:49,  4.71s/it]Best trial: 12. Best value: 0.849181:  14%|█▍        | 14/100 [01:06<06:19,  4.41s/it]                                                                                      Best trial: 12. Best value: 0.849181:  14%|█▍        | 14/100 [01:11<06:19,  4.41s/it]Best trial: 12. Best value: 0.849181:  14%|█▍        | 14/100 [01:11<06:19,  4.41s/it]Best trial: 12. Best value: 0.849181:  15%|█▌        | 15/100 [01:11<06:36,  4.67s/it]                                                                                      Best trial: 12. Best value: 0.849181:  15%|█▌        | 15/100 [01:14<06:36,  4.67s/it]Best trial: 12. Best value: 0.849181:  15%|█▌        | 15/100 [01:14<06:36,  4.67s/it]Best trial: 12. Best value: 0.849181:  16%|█▌        | 16/100 [01:14<05:49,  4.16s/it]                                                                                      Best trial: 12. Best value: 0.849181:  16%|█▌        | 16/100 [01:16<05:49,  4.16s/it]Best trial: 12. Best value: 0.849181:  16%|█▌        | 16/100 [01:16<05:49,  4.16s/it]Best trial: 12. Best value: 0.849181:  17%|█▋        | 17/100 [01:16<04:48,  3.48s/it]                                                                                        Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:00:28,028] Trial 0 finished with value: 0.9896915522395692 and parameters: {'lambda': 0.04656804637919568, 'alpha': 0.7608481233714796, 'subsample': 0.40006862489040695, 'colsample_bytree': 0.5813995435791038, 'max_depth': 3, 'learning_rate': 0.02860923983587054, 'n_estimators': 21}. Best is trial 0 with value: 0.9896915522395692.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:00:37,142] Trial 1 finished with value: 0.870971289542144 and parameters: {'lambda': 0.024112537061475744, 'alpha': 0.03864291653552653, 'subsample': 0.7232900404020142, 'colsample_bytree': 0.6515167086419769, 'max_depth': 8, 'learning_rate': 0.062131222669723714, 'n_estimators': 89}. Best is trial 1 with value: 0.870971289542144.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:00:42,747] Trial 2 finished with value: 0.851564780745653 and parameters: {'lambda': 0.0012869165107815027, 'alpha': 0.4806954824961602, 'subsample': 0.6503828814202761, 'colsample_bytree': 0.735213897067451, 'max_depth': 3, 'learning_rate': 0.060232345236378756, 'n_estimators': 81}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:00:44,432] Trial 3 finished with value: 1.0545196142131483 and parameters: {'lambda': 7.465283462691555, 'alpha': 0.017934807211789795, 'subsample': 0.8153935694015885, 'colsample_bytree': 0.9258334913776229, 'max_depth': 10, 'learning_rate': 0.026428219199563594, 'n_estimators': 6}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:00:52,560] Trial 4 finished with value: 0.8738951056271882 and parameters: {'lambda': 0.0047788310658577, 'alpha': 3.25514256249193, 'subsample': 0.4590081002998301, 'colsample_bytree': 0.6526645750030313, 'max_depth': 10, 'learning_rate': 0.1604164202069321, 'n_estimators': 70}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:00:59,647] Trial 5 finished with value: 0.8755910385147608 and parameters: {'lambda': 0.018283634209844524, 'alpha': 0.5571905096939267, 'subsample': 0.9007754031384237, 'colsample_bytree': 0.4109729664065151, 'max_depth': 8, 'learning_rate': 0.2966694655830419, 'n_estimators': 76}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:04,435] Trial 6 finished with value: 0.8584569439786841 and parameters: {'lambda': 0.013236585469415493, 'alpha': 1.4358772473434618, 'subsample': 0.4619356039465852, 'colsample_bytree': 0.6687361157055431, 'max_depth': 10, 'learning_rate': 0.08879063036373017, 'n_estimators': 31}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:05,253] Trial 7 finished with value: 0.9319924818736208 and parameters: {'lambda': 0.0033121827306255114, 'alpha': 0.0011952749874776889, 'subsample': 0.8073013197639346, 'colsample_bytree': 0.5269768696000354, 'max_depth': 4, 'learning_rate': 0.14798037462482114, 'n_estimators': 8}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:08,401] Trial 8 finished with value: 0.8566513350341198 and parameters: {'lambda': 0.19791122273579098, 'alpha': 0.0038629074184943235, 'subsample': 0.7535833221419705, 'colsample_bytree': 0.8198550160125587, 'max_depth': 2, 'learning_rate': 0.12480274035805092, 'n_estimators': 71}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:14,485] Trial 9 finished with value: 0.8539340089465302 and parameters: {'lambda': 0.04536459919009389, 'alpha': 0.0015842139594029103, 'subsample': 0.721537843549307, 'colsample_bytree': 0.7982767871318732, 'max_depth': 6, 'learning_rate': 0.28343383204125316, 'n_estimators': 60}. Best is trial 2 with value: 0.851564780745653.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:18,098] Trial 10 finished with value: 0.849502803242244 and parameters: {'lambda': 0.0011057718797582434, 'alpha': 0.20010307919953207, 'subsample': 0.5718621995203722, 'colsample_bytree': 0.9925937090708492, 'max_depth': 5, 'learning_rate': 0.20177827775879079, 'n_estimators': 41}. Best is trial 10 with value: 0.849502803242244.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:26,188] Trial 11 finished with value: 0.8523247149934448 and parameters: {'lambda': 0.0010814733120668885, 'alpha': 0.2534822782998158, 'subsample': 0.588632308496877, 'colsample_bytree': 0.9978831755987974, 'max_depth': 5, 'learning_rate': 0.21156819834826587, 'n_estimators': 100}. Best is trial 10 with value: 0.849502803242244.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:29,280] Trial 12 finished with value: 0.8491811395565001 and parameters: {'lambda': 0.3077934779078749, 'alpha': 0.08222368634228075, 'subsample': 0.6018183354849301, 'colsample_bytree': 0.815228489461916, 'max_depth': 4, 'learning_rate': 0.2203910208904078, 'n_estimators': 41}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:32,999] Trial 13 finished with value: 0.8498572553451889 and parameters: {'lambda': 0.36615369823831945, 'alpha': 0.10223219301098602, 'subsample': 0.5739295845801331, 'colsample_bytree': 0.9041672801316589, 'max_depth': 5, 'learning_rate': 0.22372830694370238, 'n_estimators': 43}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:38,272] Trial 14 finished with value: 0.8514910994306673 and parameters: {'lambda': 1.1951871536634737, 'alpha': 7.519168398865189, 'subsample': 0.5675683483923714, 'colsample_bytree': 0.9976766651781257, 'max_depth': 7, 'learning_rate': 0.22432138579851008, 'n_estimators': 48}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:41,262] Trial 15 finished with value: 0.8493863797218253 and parameters: {'lambda': 1.1920690091221233, 'alpha': 0.01594667584421569, 'subsample': 0.6398019277384468, 'colsample_bytree': 0.8774980827947395, 'max_depth': 5, 'learning_rate': 0.19269881238962028, 'n_estimators': 33}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:43,149] Trial 16 finished with value: 0.8506075894307757 and parameters: {'lambda': 1.127170989608079, 'alpha': 0.012362656205405538, 'subsample': 0.6472732553238582, 'colsample_bytree': 0.8464465036487774, 'max_depth': 4, 'learning_rate': 0.25559575653098104, 'n_estimators': 23}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+Best trial: 12. Best value: 0.849181:  17%|█▋        | 17/100 [01:18<04:48,  3.48s/it]Best trial: 12. Best value: 0.849181:  17%|█▋        | 17/100 [01:18<04:48,  3.48s/it]Best trial: 12. Best value: 0.849181:  18%|█▊        | 18/100 [01:18<04:18,  3.15s/it]                                                                                      Best trial: 12. Best value: 0.849181:  18%|█▊        | 18/100 [01:22<04:18,  3.15s/it]Best trial: 12. Best value: 0.849181:  18%|█▊        | 18/100 [01:22<04:18,  3.15s/it]Best trial: 12. Best value: 0.849181:  19%|█▉        | 19/100 [01:22<04:16,  3.16s/it]                                                                                      Best trial: 12. Best value: 0.849181:  19%|█▉        | 19/100 [01:24<04:16,  3.16s/it]Best trial: 12. Best value: 0.849181:  19%|█▉        | 19/100 [01:24<04:16,  3.16s/it]Best trial: 12. Best value: 0.849181:  20%|██        | 20/100 [01:24<04:04,  3.05s/it]                                                                                      Best trial: 12. Best value: 0.849181:  20%|██        | 20/100 [01:27<04:04,  3.05s/it]Best trial: 12. Best value: 0.849181:  20%|██        | 20/100 [01:27<04:04,  3.05s/it]Best trial: 12. Best value: 0.849181:  21%|██        | 21/100 [01:27<03:43,  2.83s/it]                                                                                      Best trial: 12. Best value: 0.849181:  21%|██        | 21/100 [01:30<03:43,  2.83s/it]Best trial: 12. Best value: 0.849181:  21%|██        | 21/100 [01:30<03:43,  2.83s/it]Best trial: 12. Best value: 0.849181:  22%|██▏       | 22/100 [01:30<03:53,  2.99s/it]                                                                                      Best trial: 12. Best value: 0.849181:  22%|██▏       | 22/100 [01:35<03:53,  2.99s/it]Best trial: 12. Best value: 0.849181:  22%|██▏       | 22/100 [01:35<03:53,  2.99s/it]Best trial: 12. Best value: 0.849181:  23%|██▎       | 23/100 [01:35<04:38,  3.61s/it]                                                                                      Best trial: 12. Best value: 0.849181:  23%|██▎       | 23/100 [01:38<04:38,  3.61s/it]Best trial: 12. Best value: 0.849181:  23%|██▎       | 23/100 [01:38<04:38,  3.61s/it]Best trial: 12. Best value: 0.849181:  24%|██▍       | 24/100 [01:38<04:17,  3.39s/it]                                                                                      Best trial: 12. Best value: 0.849181:  24%|██▍       | 24/100 [01:40<04:17,  3.39s/it]Best trial: 12. Best value: 0.849181:  24%|██▍       | 24/100 [01:40<04:17,  3.39s/it]Best trial: 12. Best value: 0.849181:  25%|██▌       | 25/100 [01:40<03:50,  3.07s/it]                                                                                      Best trial: 12. Best value: 0.849181:  25%|██▌       | 25/100 [01:42<03:50,  3.07s/it]Best trial: 12. Best value: 0.849181:  25%|██▌       | 25/100 [01:42<03:50,  3.07s/it]Best trial: 12. Best value: 0.849181:  26%|██▌       | 26/100 [01:42<03:24,  2.76s/it]                                                                                      Best trial: 12. Best value: 0.849181:  26%|██▌       | 26/100 [01:47<03:24,  2.76s/it]Best trial: 12. Best value: 0.849181:  26%|██▌       | 26/100 [01:47<03:24,  2.76s/it]Best trial: 12. Best value: 0.849181:  27%|██▋       | 27/100 [01:47<03:56,  3.23s/it]                                                                                      Best trial: 12. Best value: 0.849181:  27%|██▋       | 27/100 [01:49<03:56,  3.23s/it]Best trial: 12. Best value: 0.849181:  27%|██▋       | 27/100 [01:49<03:56,  3.23s/it]Best trial: 12. Best value: 0.849181:  28%|██▊       | 28/100 [01:49<03:43,  3.10s/it]                                                                                      Best trial: 12. Best value: 0.849181:  28%|██▊       | 28/100 [01:52<03:43,  3.10s/it]Best trial: 12. Best value: 0.849181:  28%|██▊       | 28/100 [01:52<03:43,  3.10s/it]Best trial: 12. Best value: 0.849181:  29%|██▉       | 29/100 [01:52<03:20,  2.82s/it]                                                                                      Best trial: 12. Best value: 0.849181:  29%|██▉       | 29/100 [01:55<03:20,  2.82s/it]Best trial: 12. Best value: 0.849181:  29%|██▉       | 29/100 [01:55<03:20,  2.82s/it]Best trial: 12. Best value: 0.849181:  30%|███       | 30/100 [01:55<03:20,  2.86s/it]                                                                                      Best trial: 12. Best value: 0.849181:  30%|███       | 30/100 [01:56<03:20,  2.86s/it]Best trial: 12. Best value: 0.849181:  30%|███       | 30/100 [01:56<03:20,  2.86s/it]Best trial: 12. Best value: 0.849181:  31%|███       | 31/100 [01:56<02:54,  2.53s/it]                                                                                      Best trial: 12. Best value: 0.849181:  31%|███       | 31/100 [01:59<02:54,  2.53s/it]Best trial: 12. Best value: 0.849181:  31%|███       | 31/100 [01:59<02:54,  2.53s/it]Best trial: 12. Best value: 0.849181:  32%|███▏      | 32/100 [01:59<02:55,  2.57s/it]                                                                                      Best trial: 12. Best value: 0.849181:  32%|███▏      | 32/100 [02:01<02:55,  2.57s/it]Best trial: 12. Best value: 0.849181:  32%|███▏      | 32/100 [02:01<02:55,  2.57s/it]Best trial: 12. Best value: 0.849181:  33%|███▎      | 33/100 [02:01<02:46,  2.48s/it]                                                                                      Best trial: 12. Best value: 0.849181:  33%|███▎      | 33/100 [02:05<02:46,  2.48s/it]Best trial: 12. Best value: 0.849181:  33%|███▎      | 33/100 [02:05<02:46,  2.48s/it]Best trial: 12. Best value: 0.849181:  34%|███▍      | 34/100 [02:05<03:13,  2.94s/it]                                                                                      Best trial: 12. Best value: 0.849181:  34%|███▍      | 34/100 [02:09<03:13,  2.94s/it]Best trial: 34. Best value: 0.848955:  34%|███▍      | 34/100 [02:09<03:13,  2.94s/it]Best trial: 34. Best value: 0.848955:  35%|███▌      | 35/100 [02:09<03:34,  3.29s/it][I 2024-10-15 10:01:45,548] Trial 17 finished with value: 0.8562295917747708 and parameters: {'lambda': 8.991349805319151, 'alpha': 0.042521277967033054, 'subsample': 0.49785549043311766, 'colsample_bytree': 0.7479241892600101, 'max_depth': 2, 'learning_rate': 0.18068354848245605, 'n_estimators': 55}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:48,725] Trial 18 finished with value: 0.8504177458084846 and parameters: {'lambda': 1.729501856579257, 'alpha': 0.006766472491620508, 'subsample': 0.9286892021417427, 'colsample_bytree': 0.8885625706267151, 'max_depth': 6, 'learning_rate': 0.2501899415566714, 'n_estimators': 29}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:51,523] Trial 19 finished with value: 0.8496438008606314 and parameters: {'lambda': 0.2868256357583114, 'alpha': 0.05021512076883712, 'subsample': 0.6534961244893153, 'colsample_bytree': 0.7823624850861323, 'max_depth': 4, 'learning_rate': 0.17855754090721582, 'n_estimators': 37}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:53,829] Trial 20 finished with value: 0.8628320620990965 and parameters: {'lambda': 2.704618355708936, 'alpha': 0.0032742299229667655, 'subsample': 0.7885473979962738, 'colsample_bytree': 0.8686844635255788, 'max_depth': 7, 'learning_rate': 0.1140412031729681, 'n_estimators': 17}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:01:57,204] Trial 21 finished with value: 0.8496840389648921 and parameters: {'lambda': 0.6046398426181349, 'alpha': 0.11280833617684471, 'subsample': 0.5210281048006101, 'colsample_bytree': 0.9494460112101999, 'max_depth': 5, 'learning_rate': 0.18771855248313465, 'n_estimators': 41}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:02,268] Trial 22 finished with value: 0.8500566963628342 and parameters: {'lambda': 0.09047521907089445, 'alpha': 0.23271088572213156, 'subsample': 0.6053995734497873, 'colsample_bytree': 0.9512076712500895, 'max_depth': 5, 'learning_rate': 0.20108322863864625, 'n_estimators': 62}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:05,124] Trial 23 finished with value: 0.8501191553176302 and parameters: {'lambda': 0.13174557512161522, 'alpha': 0.020532724127476136, 'subsample': 0.6651786316690144, 'colsample_bytree': 0.8544687594569889, 'max_depth': 3, 'learning_rate': 0.2460900845317348, 'n_estimators': 50}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:07,463] Trial 24 finished with value: 0.8502853319087567 and parameters: {'lambda': 3.674012332837082, 'alpha': 0.1430858506855771, 'subsample': 0.5513792001872575, 'colsample_bytree': 0.9267523302539034, 'max_depth': 4, 'learning_rate': 0.153594521649575, 'n_estimators': 32}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:09,488] Trial 25 finished with value: 0.8524789075219257 and parameters: {'lambda': 0.6356120098962121, 'alpha': 0.06327279330849434, 'subsample': 0.99847609506143, 'colsample_bytree': 0.763878816769684, 'max_depth': 7, 'learning_rate': 0.2681804876579178, 'n_estimators': 14}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:13,832] Trial 26 finished with value: 0.8512843084208334 and parameters: {'lambda': 0.5576315689956413, 'alpha': 0.021880258803160406, 'subsample': 0.6159967122255644, 'colsample_bytree': 0.9615167864294373, 'max_depth': 6, 'learning_rate': 0.23183706654114436, 'n_estimators': 43}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:16,636] Trial 27 finished with value: 0.8517901674030742 and parameters: {'lambda': 0.09018726089737893, 'alpha': 0.008507907678843588, 'subsample': 0.6939525460060234, 'colsample_bytree': 0.8365043787678291, 'max_depth': 6, 'learning_rate': 0.2076771254089364, 'n_estimators': 26}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:18,799] Trial 28 finished with value: 0.8510228093185255 and parameters: {'lambda': 0.005139061443863048, 'alpha': 2.2206679877907347, 'subsample': 0.5225219184398184, 'colsample_bytree': 0.7002641358076438, 'max_depth': 3, 'learning_rate': 0.17129250006803576, 'n_estimators': 37}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:21,744] Trial 29 finished with value: 0.8678931101378842 and parameters: {'lambda': 0.04674423283145511, 'alpha': 0.363196431384743, 'subsample': 0.4535469526387498, 'colsample_bytree': 0.600169743530681, 'max_depth': 4, 'learning_rate': 0.1352346681792682, 'n_estimators': 56}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:23,493] Trial 30 finished with value: 0.851512749507415 and parameters: {'lambda': 4.46483204904922, 'alpha': 1.0132501913141627, 'subsample': 0.42873853902185133, 'colsample_bytree': 0.8921451909178041, 'max_depth': 5, 'learning_rate': 0.19772851507244354, 'n_estimators': 19}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:26,182] Trial 31 finished with value: 0.8496132610392603 and parameters: {'lambda': 0.2285594834969783, 'alpha': 0.04961755724843411, 'subsample': 0.6803675569613299, 'colsample_bytree': 0.7854663869245113, 'max_depth': 4, 'learning_rate': 0.17512291175074088, 'n_estimators': 37}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:28,455] Trial 32 finished with value: 0.8500768166197077 and parameters: {'lambda': 0.18844165215391606, 'alpha': 0.029270804297124222, 'subsample': 0.6915715270083619, 'colsample_bytree': 0.8043907189402834, 'max_depth': 3, 'learning_rate': 0.23671175821771126, 'n_estimators': 38}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:32,452] Trial 33 finished with value: 0.8492431706074495 and parameters: {'lambda': 0.04791629400313251, 'alpha': 0.07000761147245214, 'subsample': 0.6203543038610753, 'colsample_bytree': 0.7226902858256976, 'max_depth': 5, 'learning_rate': 0.10757090503796006, 'n_estimators': 48}. Best is trial 12 with value: 0.8491811395565001.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:36,573] Trial 34 finished with value: 0.8489552747540444 and parameters: {'lambda': 0.009906029752278573, 'alpha': 0.07467094407104397, 'subsample': 0.6295444239680215, 'colsample_bytree': 0.6884341866465704, 'max_depth': 5, 'learning_rate': 0.1124648018883324, 'n_estimators': 48}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+                                                                                      Best trial: 34. Best value: 0.848955:  35%|███▌      | 35/100 [02:15<03:34,  3.29s/it]Best trial: 34. Best value: 0.848955:  35%|███▌      | 35/100 [02:15<03:34,  3.29s/it]Best trial: 34. Best value: 0.848955:  36%|███▌      | 36/100 [02:15<04:09,  3.89s/it]                                                                                      Best trial: 34. Best value: 0.848955:  36%|███▌      | 36/100 [02:19<04:09,  3.89s/it]Best trial: 34. Best value: 0.848955:  36%|███▌      | 36/100 [02:19<04:09,  3.89s/it]Best trial: 34. Best value: 0.848955:  37%|███▋      | 37/100 [02:19<04:09,  3.96s/it]                                                                                      Best trial: 34. Best value: 0.848955:  37%|███▋      | 37/100 [02:24<04:09,  3.96s/it]Best trial: 34. Best value: 0.848955:  37%|███▋      | 37/100 [02:24<04:09,  3.96s/it]Best trial: 34. Best value: 0.848955:  38%|███▊      | 38/100 [02:24<04:25,  4.29s/it]                                                                                      Best trial: 34. Best value: 0.848955:  38%|███▊      | 38/100 [02:26<04:25,  4.29s/it]Best trial: 34. Best value: 0.848955:  38%|███▊      | 38/100 [02:26<04:25,  4.29s/it]Best trial: 34. Best value: 0.848955:  39%|███▉      | 39/100 [02:26<03:43,  3.66s/it]                                                                                      Best trial: 34. Best value: 0.848955:  39%|███▉      | 39/100 [02:30<03:43,  3.66s/it]Best trial: 34. Best value: 0.848955:  39%|███▉      | 39/100 [02:30<03:43,  3.66s/it]Best trial: 34. Best value: 0.848955:  40%|████      | 40/100 [02:30<03:51,  3.86s/it]                                                                                      Best trial: 34. Best value: 0.848955:  40%|████      | 40/100 [02:39<03:51,  3.86s/it]Best trial: 34. Best value: 0.848955:  40%|████      | 40/100 [02:39<03:51,  3.86s/it]Best trial: 34. Best value: 0.848955:  41%|████      | 41/100 [02:39<05:13,  5.32s/it]                                                                                      Best trial: 34. Best value: 0.848955:  41%|████      | 41/100 [02:42<05:13,  5.32s/it]Best trial: 34. Best value: 0.848955:  41%|████      | 41/100 [02:42<05:13,  5.32s/it]Best trial: 34. Best value: 0.848955:  42%|████▏     | 42/100 [02:42<04:24,  4.56s/it]                                                                                      Best trial: 34. Best value: 0.848955:  42%|████▏     | 42/100 [02:45<04:24,  4.56s/it]Best trial: 34. Best value: 0.848955:  42%|████▏     | 42/100 [02:45<04:24,  4.56s/it]Best trial: 34. Best value: 0.848955:  43%|████▎     | 43/100 [02:45<03:53,  4.09s/it]                                                                                      Best trial: 34. Best value: 0.848955:  43%|████▎     | 43/100 [02:48<03:53,  4.09s/it]Best trial: 34. Best value: 0.848955:  43%|████▎     | 43/100 [02:48<03:53,  4.09s/it]Best trial: 34. Best value: 0.848955:  44%|████▍     | 44/100 [02:48<03:31,  3.77s/it]                                                                                      Best trial: 34. Best value: 0.848955:  44%|████▍     | 44/100 [02:52<03:31,  3.77s/it]Best trial: 34. Best value: 0.848955:  44%|████▍     | 44/100 [02:52<03:31,  3.77s/it]Best trial: 34. Best value: 0.848955:  45%|████▌     | 45/100 [02:52<03:30,  3.82s/it]                                                                                      Best trial: 34. Best value: 0.848955:  45%|████▌     | 45/100 [02:55<03:30,  3.82s/it]Best trial: 34. Best value: 0.848955:  45%|████▌     | 45/100 [02:55<03:30,  3.82s/it]Best trial: 34. Best value: 0.848955:  46%|████▌     | 46/100 [02:55<03:14,  3.60s/it]                                                                                      Best trial: 34. Best value: 0.848955:  46%|████▌     | 46/100 [02:58<03:14,  3.60s/it]Best trial: 46. Best value: 0.848947:  46%|████▌     | 46/100 [02:59<03:14,  3.60s/it]Best trial: 46. Best value: 0.848947:  47%|████▋     | 47/100 [02:59<03:10,  3.59s/it]                                                                                      Best trial: 46. Best value: 0.848947:  47%|████▋     | 47/100 [03:04<03:10,  3.59s/it]Best trial: 47. Best value: 0.848339:  47%|████▋     | 47/100 [03:04<03:10,  3.59s/it]Best trial: 47. Best value: 0.848339:  48%|████▊     | 48/100 [03:04<03:30,  4.05s/it]                                                                                      Best trial: 47. Best value: 0.848339:  48%|████▊     | 48/100 [03:07<03:30,  4.05s/it]Best trial: 47. Best value: 0.848339:  48%|████▊     | 48/100 [03:07<03:30,  4.05s/it]Best trial: 47. Best value: 0.848339:  49%|████▉     | 49/100 [03:07<03:23,  3.98s/it]                                                                                      Best trial: 47. Best value: 0.848339:  49%|████▉     | 49/100 [03:13<03:23,  3.98s/it]Best trial: 49. Best value: 0.847955:  49%|████▉     | 49/100 [03:13<03:23,  3.98s/it]Best trial: 49. Best value: 0.847955:  50%|█████     | 50/100 [03:13<03:35,  4.31s/it]                                                                                      Best trial: 49. Best value: 0.847955:  50%|█████     | 50/100 [03:17<03:35,  4.31s/it]Best trial: 49. Best value: 0.847955:  50%|█████     | 50/100 [03:17<03:35,  4.31s/it]Best trial: 49. Best value: 0.847955:  51%|█████     | 51/100 [03:17<03:27,  4.24s/it]                                                                                      Best trial: 49. Best value: 0.847955:  51%|█████     | 51/100 [03:22<03:27,  4.24s/it]Best trial: 49. Best value: 0.847955:  51%|█████     | 51/100 [03:22<03:27,  4.24s/it]Best trial: 49. Best value: 0.847955:  52%|█████▏    | 52/100 [03:22<03:44,  4.67s/it]                                                                                        Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:41,868] Trial 35 finished with value: 0.8497887177371852 and parameters: {'lambda': 0.011587528868376992, 'alpha': 0.07772275644531632, 'subsample': 0.7453797278341954, 'colsample_bytree': 0.6863133801439877, 'max_depth': 5, 'learning_rate': 0.06735769315934072, 'n_estimators': 64}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:45,994] Trial 36 finished with value: 0.8727976287190892 and parameters: {'lambda': 0.03674516426487657, 'alpha': 0.011454282879688776, 'subsample': 0.6239739144553708, 'colsample_bytree': 0.6084993059753172, 'max_depth': 8, 'learning_rate': 0.10206464322527684, 'n_estimators': 49}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:51,046] Trial 37 finished with value: 0.8500513616275361 and parameters: {'lambda': 0.007320397332916173, 'alpha': 0.035007119463644, 'subsample': 0.6289999681560012, 'colsample_bytree': 0.7204327682968219, 'max_depth': 6, 'learning_rate': 0.08167398849184827, 'n_estimators': 53}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:53,229] Trial 38 finished with value: 1.0642116848428342 and parameters: {'lambda': 0.0024244480777212384, 'alpha': 0.5853483667639133, 'subsample': 0.5163465247776202, 'colsample_bytree': 0.5528789183863085, 'max_depth': 3, 'learning_rate': 0.0038899838837162665, 'n_estimators': 47}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:02:57,569] Trial 39 finished with value: 0.8728929296483227 and parameters: {'lambda': 0.03247013071619124, 'alpha': 0.1574009405662895, 'subsample': 0.7214897715880285, 'colsample_bytree': 0.6482377964648967, 'max_depth': 4, 'learning_rate': 0.049607359166956355, 'n_estimators': 84}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:06,285] Trial 40 finished with value: 0.8587301556771143 and parameters: {'lambda': 0.06010671162882705, 'alpha': 0.3768415000967937, 'subsample': 0.5422459015039737, 'colsample_bytree': 0.7256579844752387, 'max_depth': 9, 'learning_rate': 0.1409171055712707, 'n_estimators': 68}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:09,059] Trial 41 finished with value: 0.8707080316174521 and parameters: {'lambda': 0.0014628440653652469, 'alpha': 0.18005993628843162, 'subsample': 0.5950428852354169, 'colsample_bytree': 0.6491358413858164, 'max_depth': 5, 'learning_rate': 0.11083192877277173, 'n_estimators': 44}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:12,057] Trial 42 finished with value: 0.8500799682009974 and parameters: {'lambda': 0.021852046647898252, 'alpha': 0.0800787277668316, 'subsample': 0.6377418023716562, 'colsample_bytree': 0.759062050940517, 'max_depth': 5, 'learning_rate': 0.1598844167947702, 'n_estimators': 34}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:15,078] Trial 43 finished with value: 0.858198888659732 and parameters: {'lambda': 0.0020969266235658646, 'alpha': 0.03132194271294237, 'subsample': 0.4925849192719973, 'colsample_bytree': 0.823727645821084, 'max_depth': 7, 'learning_rate': 0.09332007118090023, 'n_estimators': 26}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:19,025] Trial 44 finished with value: 0.8697022363790539 and parameters: {'lambda': 0.009134544962697428, 'alpha': 0.3239163966039878, 'subsample': 0.580355937040805, 'colsample_bytree': 0.43342287499958937, 'max_depth': 6, 'learning_rate': 0.21505670884055678, 'n_estimators': 57}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:22,118] Trial 45 finished with value: 0.869360129414832 and parameters: {'lambda': 0.0045820327389934044, 'alpha': 0.11277313986701117, 'subsample': 0.5547868961460275, 'colsample_bytree': 0.6266423644982237, 'max_depth': 5, 'learning_rate': 0.12558731778342877, 'n_estimators': 46}. Best is trial 34 with value: 0.8489552747540444.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:25,682] Trial 46 finished with value: 0.8489474768515212 and parameters: {'lambda': 0.14032519183572814, 'alpha': 0.0044745309481205135, 'subsample': 0.6740817358453021, 'colsample_bytree': 0.7061825275638003, 'max_depth': 4, 'learning_rate': 0.1658393205078727, 'n_estimators': 51}. Best is trial 46 with value: 0.8489474768515212.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:30,802] Trial 47 finished with value: 0.8483392134070182 and parameters: {'lambda': 0.12747858416470836, 'alpha': 0.0028669636870499097, 'subsample': 0.7722093371305793, 'colsample_bytree': 0.6959040770482339, 'max_depth': 4, 'learning_rate': 0.1308394301725256, 'n_estimators': 75}. Best is trial 47 with value: 0.8483392134070182.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:34,624] Trial 48 finished with value: 0.8582011982118267 and parameters: {'lambda': 0.06662158355514353, 'alpha': 0.0022202001911895614, 'subsample': 0.8506487781565548, 'colsample_bytree': 0.6887211666337254, 'max_depth': 2, 'learning_rate': 0.07885212373748385, 'n_estimators': 95}. Best is trial 47 with value: 0.8483392134070182.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:39,687] Trial 49 finished with value: 0.8479551493490314 and parameters: {'lambda': 0.13544951561665153, 'alpha': 0.0010181835507502832, 'subsample': 0.7885676744065945, 'colsample_bytree': 0.7090337807050557, 'max_depth': 4, 'learning_rate': 0.12136026483574651, 'n_estimators': 75}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:43,764] Trial 50 finished with value: 0.86725565780013 and parameters: {'lambda': 0.15176063235989778, 'alpha': 0.0011703098961199955, 'subsample': 0.7823819133354052, 'colsample_bytree': 0.5522997420393828, 'max_depth': 4, 'learning_rate': 0.1262604010265026, 'n_estimators': 77}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:49,457] Trial 51 finished with value: 0.8481488238100416 and parameters: {'lambda': 0.015579350723553795, 'alpha': 0.001899665458787777, 'subsample': 0.8434567813866429, 'colsample_bytree': 0.7056380012469836, 'max_depth': 4, 'learning_rate': 0.10796917445035736, 'n_estimators': 85}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+Best trial: 49. Best value: 0.847955:  52%|█████▏    | 52/100 [03:26<03:44,  4.67s/it]Best trial: 49. Best value: 0.847955:  52%|█████▏    | 52/100 [03:26<03:44,  4.67s/it]Best trial: 49. Best value: 0.847955:  53%|█████▎    | 53/100 [03:26<03:20,  4.26s/it]                                                                                      Best trial: 49. Best value: 0.847955:  53%|█████▎    | 53/100 [03:31<03:20,  4.26s/it]Best trial: 49. Best value: 0.847955:  53%|█████▎    | 53/100 [03:31<03:20,  4.26s/it]Best trial: 49. Best value: 0.847955:  54%|█████▍    | 54/100 [03:31<03:37,  4.72s/it]                                                                                      Best trial: 49. Best value: 0.847955:  54%|█████▍    | 54/100 [03:37<03:37,  4.72s/it]Best trial: 49. Best value: 0.847955:  54%|█████▍    | 54/100 [03:37<03:37,  4.72s/it]Best trial: 49. Best value: 0.847955:  55%|█████▌    | 55/100 [03:37<03:49,  5.10s/it]                                                                                      Best trial: 49. Best value: 0.847955:  55%|█████▌    | 55/100 [03:41<03:49,  5.10s/it]Best trial: 49. Best value: 0.847955:  55%|█████▌    | 55/100 [03:41<03:49,  5.10s/it]Best trial: 49. Best value: 0.847955:  56%|█████▌    | 56/100 [03:41<03:24,  4.64s/it]                                                                                      Best trial: 49. Best value: 0.847955:  56%|█████▌    | 56/100 [03:45<03:24,  4.64s/it]Best trial: 49. Best value: 0.847955:  56%|█████▌    | 56/100 [03:45<03:24,  4.64s/it]Best trial: 49. Best value: 0.847955:  57%|█████▋    | 57/100 [03:45<03:14,  4.53s/it]                                                                                      Best trial: 49. Best value: 0.847955:  57%|█████▋    | 57/100 [03:50<03:14,  4.53s/it]Best trial: 49. Best value: 0.847955:  57%|█████▋    | 57/100 [03:50<03:14,  4.53s/it]Best trial: 49. Best value: 0.847955:  58%|█████▊    | 58/100 [03:50<03:16,  4.68s/it]                                                                                      Best trial: 49. Best value: 0.847955:  58%|█████▊    | 58/100 [03:55<03:16,  4.68s/it]Best trial: 49. Best value: 0.847955:  58%|█████▊    | 58/100 [03:55<03:16,  4.68s/it]Best trial: 49. Best value: 0.847955:  59%|█████▉    | 59/100 [03:55<03:16,  4.79s/it]                                                                                      Best trial: 49. Best value: 0.847955:  59%|█████▉    | 59/100 [04:00<03:16,  4.79s/it]Best trial: 49. Best value: 0.847955:  59%|█████▉    | 59/100 [04:00<03:16,  4.79s/it]Best trial: 49. Best value: 0.847955:  60%|██████    | 60/100 [04:00<03:12,  4.82s/it]                                                                                      Best trial: 49. Best value: 0.847955:  60%|██████    | 60/100 [04:03<03:12,  4.82s/it]Best trial: 49. Best value: 0.847955:  60%|██████    | 60/100 [04:03<03:12,  4.82s/it]Best trial: 49. Best value: 0.847955:  61%|██████    | 61/100 [04:03<02:50,  4.36s/it]                                                                                      Best trial: 49. Best value: 0.847955:  61%|██████    | 61/100 [04:09<02:50,  4.36s/it]Best trial: 49. Best value: 0.847955:  61%|██████    | 61/100 [04:09<02:50,  4.36s/it]Best trial: 49. Best value: 0.847955:  62%|██████▏   | 62/100 [04:09<02:55,  4.62s/it]                                                                                      Best trial: 49. Best value: 0.847955:  62%|██████▏   | 62/100 [04:14<02:55,  4.62s/it]Best trial: 49. Best value: 0.847955:  62%|██████▏   | 62/100 [04:14<02:55,  4.62s/it]Best trial: 49. Best value: 0.847955:  63%|██████▎   | 63/100 [04:14<03:03,  4.96s/it]                                                                                      Best trial: 49. Best value: 0.847955:  63%|██████▎   | 63/100 [04:20<03:03,  4.96s/it]Best trial: 49. Best value: 0.847955:  63%|██████▎   | 63/100 [04:20<03:03,  4.96s/it]Best trial: 49. Best value: 0.847955:  64%|██████▍   | 64/100 [04:20<03:08,  5.23s/it]                                                                                      Best trial: 49. Best value: 0.847955:  64%|██████▍   | 64/100 [04:27<03:08,  5.23s/it]Best trial: 49. Best value: 0.847955:  64%|██████▍   | 64/100 [04:27<03:08,  5.23s/it]Best trial: 49. Best value: 0.847955:  65%|██████▌   | 65/100 [04:27<03:19,  5.69s/it]                                                                                      Best trial: 49. Best value: 0.847955:  65%|██████▌   | 65/100 [04:33<03:19,  5.69s/it]Best trial: 49. Best value: 0.847955:  65%|██████▌   | 65/100 [04:33<03:19,  5.69s/it]Best trial: 49. Best value: 0.847955:  66%|██████▌   | 66/100 [04:33<03:17,  5.81s/it]                                                                                      Best trial: 49. Best value: 0.847955:  66%|██████▌   | 66/100 [04:39<03:17,  5.81s/it]Best trial: 49. Best value: 0.847955:  66%|██████▌   | 66/100 [04:39<03:17,  5.81s/it]Best trial: 49. Best value: 0.847955:  67%|██████▋   | 67/100 [04:39<03:13,  5.86s/it]                                                                                      Best trial: 49. Best value: 0.847955:  67%|██████▋   | 67/100 [04:44<03:13,  5.86s/it]Best trial: 49. Best value: 0.847955:  67%|██████▋   | 67/100 [04:44<03:13,  5.86s/it]Best trial: 49. Best value: 0.847955:  68%|██████▊   | 68/100 [04:44<02:55,  5.47s/it]                                                                                      Best trial: 49. Best value: 0.847955:  68%|██████▊   | 68/100 [04:50<02:55,  5.47s/it]Best trial: 49. Best value: 0.847955:  68%|██████▊   | 68/100 [04:50<02:55,  5.47s/it]Best trial: 49. Best value: 0.847955:  69%|██████▉   | 69/100 [04:50<02:58,  5.74s/it]                                                                                      [I 2024-10-15 10:03:52,754] Trial 52 finished with value: 0.8675731928244186 and parameters: {'lambda': 0.3615278789420508, 'alpha': 0.00196017716619486, 'subsample': 0.8266947600409137, 'colsample_bytree': 0.6622817793117677, 'max_depth': 3, 'learning_rate': 0.14215793709368693, 'n_estimators': 75}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:03:58,558] Trial 53 finished with value: 0.848117721198477 and parameters: {'lambda': 0.12127019628425284, 'alpha': 0.00421867200839713, 'subsample': 0.8869221589974922, 'colsample_bytree': 0.6885801610802421, 'max_depth': 4, 'learning_rate': 0.11813824835224843, 'n_estimators': 86}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:04,532] Trial 54 finished with value: 0.8483191001767822 and parameters: {'lambda': 0.016817620074320628, 'alpha': 0.004531163041105292, 'subsample': 0.8666172903386734, 'colsample_bytree': 0.7043711951792253, 'max_depth': 4, 'learning_rate': 0.11940296736220665, 'n_estimators': 85}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:08,099] Trial 55 finished with value: 0.8572025025333453 and parameters: {'lambda': 0.018458691944582155, 'alpha': 0.005808004493171922, 'subsample': 0.8641905311553949, 'colsample_bytree': 0.7065182974225241, 'max_depth': 2, 'learning_rate': 0.09369996674297298, 'n_estimators': 88}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:12,390] Trial 56 finished with value: 0.8671805019553694 and parameters: {'lambda': 0.11725857969591179, 'alpha': 0.004184182680873883, 'subsample': 0.9246915411878276, 'colsample_bytree': 0.6284655026462183, 'max_depth': 4, 'learning_rate': 0.13020685545396746, 'n_estimators': 83}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:17,405] Trial 57 finished with value: 0.848554102418137 and parameters: {'lambda': 0.029572605621343586, 'alpha': 0.0027334306111379287, 'subsample': 0.8798110079226998, 'colsample_bytree': 0.7392553406990879, 'max_depth': 3, 'learning_rate': 0.1506730699302053, 'n_estimators': 93}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:22,453] Trial 58 finished with value: 0.8487603935942856 and parameters: {'lambda': 0.027782366405179365, 'alpha': 0.0028273601945472343, 'subsample': 0.8793823125872107, 'colsample_bytree': 0.7496323996790185, 'max_depth': 3, 'learning_rate': 0.1507086719606433, 'n_estimators': 94}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:27,355] Trial 59 finished with value: 0.8503399990599786 and parameters: {'lambda': 0.06966432011924235, 'alpha': 0.0015911800786010395, 'subsample': 0.9095503370093515, 'colsample_bytree': 0.6728280614241541, 'max_depth': 3, 'learning_rate': 0.06750747575026679, 'n_estimators': 89}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:30,642] Trial 60 finished with value: 0.8560616793221573 and parameters: {'lambda': 0.013609915249365044, 'alpha': 0.0011487782731873866, 'subsample': 0.966291189565, 'colsample_bytree': 0.776619180190196, 'max_depth': 2, 'learning_rate': 0.11853112653528042, 'n_estimators': 79}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:35,860] Trial 61 finished with value: 0.8487122962008262 and parameters: {'lambda': 0.028024524171903854, 'alpha': 0.0027737653782604864, 'subsample': 0.8766665080113087, 'colsample_bytree': 0.7480812207390088, 'max_depth': 3, 'learning_rate': 0.15436400892870547, 'n_estimators': 96}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:41,624] Trial 62 finished with value: 0.8485403233286594 and parameters: {'lambda': 0.014353965518989388, 'alpha': 0.002590745849506596, 'subsample': 0.8391149837487395, 'colsample_bytree': 0.7362965933830835, 'max_depth': 3, 'learning_rate': 0.14074920218258083, 'n_estimators': 98}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:47,489] Trial 63 finished with value: 0.8481662814583183 and parameters: {'lambda': 0.014959050819660378, 'alpha': 0.0015516624975757073, 'subsample': 0.8220993778078103, 'colsample_bytree': 0.7357790575360613, 'max_depth': 4, 'learning_rate': 0.0994930835365232, 'n_estimators': 85}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:04:54,231] Trial 64 finished with value: 0.8482285820648745 and parameters: {'lambda': 0.006144855135245578, 'alpha': 0.001510041347088865, 'subsample': 0.8183721037026928, 'colsample_bytree': 0.7251548534131689, 'max_depth': 4, 'learning_rate': 0.10057085364677726, 'n_estimators': 100}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:00,335] Trial 65 finished with value: 0.8482257777596369 and parameters: {'lambda': 0.006506251899331529, 'alpha': 0.0015914982214375389, 'subsample': 0.8079268036901208, 'colsample_bytree': 0.6677658633298894, 'max_depth': 4, 'learning_rate': 0.10275467028286496, 'n_estimators': 88}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:06,309] Trial 66 finished with value: 0.8482335284479869 and parameters: {'lambda': 0.0065221723997007245, 'alpha': 0.0016730080628326175, 'subsample': 0.8115319926579796, 'colsample_bytree': 0.6685356706947911, 'max_depth': 4, 'learning_rate': 0.08338249629199021, 'n_estimators': 86}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:10,884] Trial 67 finished with value: 0.8671347403801793 and parameters: {'lambda': 0.006608689539385637, 'alpha': 0.0015581025136065085, 'subsample': 0.8231374097928692, 'colsample_bytree': 0.6260661137058371, 'max_depth': 4, 'learning_rate': 0.09785631183755376, 'n_estimators': 87}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:17,252] Trial 68 finished with value: 0.8498236374789023 and parameters: {'lambda': 0.0030491434613655177, 'alpha': 0.001013237965945495, 'subsample': 0.8040872622975034, 'colsample_bytree': 0.6739432851458832, 'max_depth': 4, 'learning_rate': 0.0505194196474729, 'n_estimators': 90}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+Best trial: 49. Best value: 0.847955:  69%|██████▉   | 69/100 [04:54<02:58,  5.74s/it]Best trial: 49. Best value: 0.847955:  69%|██████▉   | 69/100 [04:54<02:58,  5.74s/it]Best trial: 49. Best value: 0.847955:  70%|███████   | 70/100 [04:54<02:39,  5.31s/it]                                                                                      Best trial: 49. Best value: 0.847955:  70%|███████   | 70/100 [05:00<02:39,  5.31s/it]Best trial: 49. Best value: 0.847955:  70%|███████   | 70/100 [05:00<02:39,  5.31s/it]Best trial: 49. Best value: 0.847955:  71%|███████   | 71/100 [05:00<02:33,  5.30s/it]                                                                                      Best trial: 49. Best value: 0.847955:  71%|███████   | 71/100 [05:06<02:33,  5.30s/it]Best trial: 49. Best value: 0.847955:  71%|███████   | 71/100 [05:06<02:33,  5.30s/it]Best trial: 49. Best value: 0.847955:  72%|███████▏  | 72/100 [05:06<02:34,  5.52s/it]                                                                                      Best trial: 49. Best value: 0.847955:  72%|███████▏  | 72/100 [05:12<02:34,  5.52s/it]Best trial: 49. Best value: 0.847955:  72%|███████▏  | 72/100 [05:12<02:34,  5.52s/it]Best trial: 49. Best value: 0.847955:  73%|███████▎  | 73/100 [05:12<02:34,  5.74s/it]                                                                                      Best trial: 49. Best value: 0.847955:  73%|███████▎  | 73/100 [05:18<02:34,  5.74s/it]Best trial: 49. Best value: 0.847955:  73%|███████▎  | 73/100 [05:18<02:34,  5.74s/it]Best trial: 49. Best value: 0.847955:  74%|███████▍  | 74/100 [05:18<02:33,  5.89s/it]                                                                                      Best trial: 49. Best value: 0.847955:  74%|███████▍  | 74/100 [05:26<02:33,  5.89s/it]Best trial: 49. Best value: 0.847955:  74%|███████▍  | 74/100 [05:26<02:33,  5.89s/it]Best trial: 49. Best value: 0.847955:  75%|███████▌  | 75/100 [05:26<02:45,  6.60s/it]                                                                                      Best trial: 49. Best value: 0.847955:  75%|███████▌  | 75/100 [05:32<02:45,  6.60s/it]Best trial: 49. Best value: 0.847955:  75%|███████▌  | 75/100 [05:32<02:45,  6.60s/it]Best trial: 49. Best value: 0.847955:  76%|███████▌  | 76/100 [05:32<02:33,  6.40s/it]                                                                                      Best trial: 49. Best value: 0.847955:  76%|███████▌  | 76/100 [05:38<02:33,  6.40s/it]Best trial: 49. Best value: 0.847955:  76%|███████▌  | 76/100 [05:38<02:33,  6.40s/it]Best trial: 49. Best value: 0.847955:  77%|███████▋  | 77/100 [05:38<02:23,  6.24s/it]                                                                                      Best trial: 49. Best value: 0.847955:  77%|███████▋  | 77/100 [05:43<02:23,  6.24s/it]Best trial: 49. Best value: 0.847955:  77%|███████▋  | 77/100 [05:43<02:23,  6.24s/it]Best trial: 49. Best value: 0.847955:  78%|███████▊  | 78/100 [05:43<02:09,  5.88s/it]                                                                                      Best trial: 49. Best value: 0.847955:  78%|███████▊  | 78/100 [05:48<02:09,  5.88s/it]Best trial: 49. Best value: 0.847955:  78%|███████▊  | 78/100 [05:48<02:09,  5.88s/it]Best trial: 49. Best value: 0.847955:  79%|███████▉  | 79/100 [05:48<01:58,  5.64s/it]                                                                                      Best trial: 49. Best value: 0.847955:  79%|███████▉  | 79/100 [05:56<01:58,  5.64s/it]Best trial: 49. Best value: 0.847955:  79%|███████▉  | 79/100 [05:56<01:58,  5.64s/it]Best trial: 49. Best value: 0.847955:  80%|████████  | 80/100 [05:56<02:01,  6.10s/it]                                                                                      Best trial: 49. Best value: 0.847955:  80%|████████  | 80/100 [05:59<02:01,  6.10s/it]Best trial: 49. Best value: 0.847955:  80%|████████  | 80/100 [05:59<02:01,  6.10s/it]Best trial: 49. Best value: 0.847955:  81%|████████  | 81/100 [05:59<01:41,  5.36s/it]                                                                                      Best trial: 49. Best value: 0.847955:  81%|████████  | 81/100 [06:04<01:41,  5.36s/it]Best trial: 49. Best value: 0.847955:  81%|████████  | 81/100 [06:04<01:41,  5.36s/it]Best trial: 49. Best value: 0.847955:  82%|████████▏ | 82/100 [06:04<01:34,  5.26s/it]                                                                                      Best trial: 49. Best value: 0.847955:  82%|████████▏ | 82/100 [06:10<01:34,  5.26s/it]Best trial: 49. Best value: 0.847955:  82%|████████▏ | 82/100 [06:10<01:34,  5.26s/it]Best trial: 49. Best value: 0.847955:  83%|████████▎ | 83/100 [06:10<01:33,  5.49s/it]                                                                                      Best trial: 49. Best value: 0.847955:  83%|████████▎ | 83/100 [06:15<01:33,  5.49s/it]Best trial: 49. Best value: 0.847955:  83%|████████▎ | 83/100 [06:15<01:33,  5.49s/it]Best trial: 49. Best value: 0.847955:  84%|████████▍ | 84/100 [06:15<01:23,  5.20s/it]                                                                                      Best trial: 49. Best value: 0.847955:  84%|████████▍ | 84/100 [06:18<01:23,  5.20s/it]Best trial: 49. Best value: 0.847955:  84%|████████▍ | 84/100 [06:18<01:23,  5.20s/it]Best trial: 49. Best value: 0.847955:  85%|████████▌ | 85/100 [06:18<01:10,  4.67s/it]                                                                                      Best trial: 49. Best value: 0.847955:  85%|████████▌ | 85/100 [06:26<01:10,  4.67s/it]Best trial: 49. Best value: 0.847955:  85%|████████▌ | 85/100 [06:26<01:10,  4.67s/it]Best trial: 49. Best value: 0.847955:  86%|████████▌ | 86/100 [06:26<01:17,  5.52s/it]                                                                                      [I 2024-10-15 10:05:21,539] Trial 69 finished with value: 0.8678354459511853 and parameters: {'lambda': 0.004817402921766497, 'alpha': 0.0016237621255096202, 'subsample': 0.8031538273224214, 'colsample_bytree': 0.5927455299083092, 'max_depth': 4, 'learning_rate': 0.08334384110514567, 'n_estimators': 80}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:26,813] Trial 70 finished with value: 0.8670719892780372 and parameters: {'lambda': 0.0033832874920020775, 'alpha': 0.001764046518323515, 'subsample': 0.753645166148263, 'colsample_bytree': 0.6435355578881834, 'max_depth': 4, 'learning_rate': 0.10364483650526396, 'n_estimators': 100}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:32,841] Trial 71 finished with value: 0.8486010439543336 and parameters: {'lambda': 0.00807557116407352, 'alpha': 0.00538563806766562, 'subsample': 0.8538196636157935, 'colsample_bytree': 0.7235264217265488, 'max_depth': 4, 'learning_rate': 0.0743421278261317, 'n_estimators': 85}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:39,095] Trial 72 finished with value: 0.8482937296351022 and parameters: {'lambda': 0.018677306012263743, 'alpha': 0.0013449858846060012, 'subsample': 0.899912245048108, 'colsample_bytree': 0.670843768874095, 'max_depth': 4, 'learning_rate': 0.11858747535534568, 'n_estimators': 91}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:45,326] Trial 73 finished with value: 0.8483174731363368 and parameters: {'lambda': 0.011480719698733266, 'alpha': 0.001323131224023996, 'subsample': 0.9049438509542067, 'colsample_bytree': 0.6702020817536201, 'max_depth': 4, 'learning_rate': 0.08713674688020728, 'n_estimators': 90}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:53,605] Trial 74 finished with value: 0.84832259173689 and parameters: {'lambda': 0.006100398398365457, 'alpha': 0.002070072449616485, 'subsample': 0.9483467468773514, 'colsample_bytree': 0.7738612338508635, 'max_depth': 5, 'learning_rate': 0.1028934574233082, 'n_estimators': 92}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:05:59,532] Trial 75 finished with value: 0.8495916807093601 and parameters: {'lambda': 0.021272323970186503, 'alpha': 0.003441422362887761, 'subsample': 0.8351678478240097, 'colsample_bytree': 0.6778386269832305, 'max_depth': 4, 'learning_rate': 0.05854535980382154, 'n_estimators': 82}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:05,390] Trial 76 finished with value: 0.867825205166777 and parameters: {'lambda': 0.0036380910169623096, 'alpha': 0.002223221176922925, 'subsample': 0.7657348599829483, 'colsample_bytree': 0.6559890612156173, 'max_depth': 5, 'learning_rate': 0.1186138567558582, 'n_estimators': 98}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:10,450] Trial 77 finished with value: 0.8491635209613935 and parameters: {'lambda': 0.04049087716079911, 'alpha': 0.008539705748219729, 'subsample': 0.7943960252407107, 'colsample_bytree': 0.7151319597474379, 'max_depth': 3, 'learning_rate': 0.09138504477791606, 'n_estimators': 92}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:15,515] Trial 78 finished with value: 0.8494675816910241 and parameters: {'lambda': 0.010085131776673152, 'alpha': 0.0013701762779160529, 'subsample': 0.7353697522665568, 'colsample_bytree': 0.7918144553113566, 'max_depth': 4, 'learning_rate': 0.07303684170725863, 'n_estimators': 70}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:22,683] Trial 79 finished with value: 0.848835744598742 and parameters: {'lambda': 0.0017667509311015052, 'alpha': 0.0010686839264975965, 'subsample': 0.8143422276215507, 'colsample_bytree': 0.761757476828993, 'max_depth': 5, 'learning_rate': 0.10564450094043328, 'n_estimators': 87}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:26,338] Trial 80 finished with value: 0.8679426050204591 and parameters: {'lambda': 0.0058431296878481784, 'alpha': 0.001408415528617641, 'subsample': 0.710700017077537, 'colsample_bytree': 0.6381047812912094, 'max_depth': 3, 'learning_rate': 0.11288151738868023, 'n_estimators': 78}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:31,362] Trial 81 finished with value: 0.8774748674337098 and parameters: {'lambda': 0.011244801816902808, 'alpha': 0.0013475115176902054, 'subsample': 0.8962216282901433, 'colsample_bytree': 0.6113988969461543, 'max_depth': 4, 'learning_rate': 0.038498793520716876, 'n_estimators': 90}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:37,380] Trial 82 finished with value: 0.8482493685145425 and parameters: {'lambda': 0.0070567341589135935, 'alpha': 0.001951075444202629, 'subsample': 0.8965119919538669, 'colsample_bytree': 0.6717505130624589, 'max_depth': 4, 'learning_rate': 0.09897249624159887, 'n_estimators': 81}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:41,903] Trial 83 finished with value: 0.8673618035663779 and parameters: {'lambda': 0.007475264795037445, 'alpha': 0.001984016641672932, 'subsample': 0.8909516745072232, 'colsample_bytree': 0.5711405116503055, 'max_depth': 4, 'learning_rate': 0.09418863247342246, 'n_estimators': 81}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:45,351] Trial 84 finished with value: 0.8697203002202599 and parameters: {'lambda': 0.0040806397959231916, 'alpha': 0.002333495186623617, 'subsample': 0.8479271432978415, 'colsample_bytree': 0.65637275800751, 'max_depth': 3, 'learning_rate': 0.08699167522875136, 'n_estimators': 73}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:06:52,831] Trial 85 finished with value: 0.8484741216383824 and parameters: {'lambda': 0.002842901864717937, 'alpha': 0.0037037453560910755, 'subsample': 0.9216761220071605, 'colsample_bytree': 0.6875230960472277, 'max_depth': 5, 'learning_rate': 0.10109770326879246, 'n_estimators': 85}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+Best trial: 49. Best value: 0.847955:  86%|████████▌ | 86/100 [06:31<01:17,  5.52s/it]Best trial: 49. Best value: 0.847955:  86%|████████▌ | 86/100 [06:31<01:17,  5.52s/it]Best trial: 49. Best value: 0.847955:  87%|████████▋ | 87/100 [06:31<01:10,  5.42s/it]                                                                                      Best trial: 49. Best value: 0.847955:  87%|████████▋ | 87/100 [06:38<01:10,  5.42s/it]Best trial: 49. Best value: 0.847955:  87%|████████▋ | 87/100 [06:38<01:10,  5.42s/it]Best trial: 49. Best value: 0.847955:  88%|████████▊ | 88/100 [06:38<01:10,  5.84s/it]                                                                                      Best trial: 49. Best value: 0.847955:  88%|████████▊ | 88/100 [06:45<01:10,  5.84s/it]Best trial: 49. Best value: 0.847955:  88%|████████▊ | 88/100 [06:45<01:10,  5.84s/it]Best trial: 49. Best value: 0.847955:  89%|████████▉ | 89/100 [06:45<01:08,  6.21s/it]                                                                                      Best trial: 49. Best value: 0.847955:  89%|████████▉ | 89/100 [06:51<01:08,  6.21s/it]Best trial: 49. Best value: 0.847955:  89%|████████▉ | 89/100 [06:51<01:08,  6.21s/it]Best trial: 49. Best value: 0.847955:  90%|█████████ | 90/100 [06:51<01:03,  6.33s/it]                                                                                      Best trial: 49. Best value: 0.847955:  90%|█████████ | 90/100 [06:57<01:03,  6.33s/it]Best trial: 49. Best value: 0.847955:  90%|█████████ | 90/100 [06:57<01:03,  6.33s/it]Best trial: 49. Best value: 0.847955:  91%|█████████ | 91/100 [06:57<00:54,  6.04s/it]                                                                                      Best trial: 49. Best value: 0.847955:  91%|█████████ | 91/100 [07:03<00:54,  6.04s/it]Best trial: 49. Best value: 0.847955:  91%|█████████ | 91/100 [07:03<00:54,  6.04s/it]Best trial: 49. Best value: 0.847955:  92%|█████████▏| 92/100 [07:03<00:49,  6.15s/it]                                                                                      Best trial: 49. Best value: 0.847955:  92%|█████████▏| 92/100 [07:08<00:49,  6.15s/it]Best trial: 49. Best value: 0.847955:  92%|█████████▏| 92/100 [07:08<00:49,  6.15s/it]Best trial: 49. Best value: 0.847955:  93%|█████████▎| 93/100 [07:08<00:39,  5.65s/it]                                                                                      Best trial: 49. Best value: 0.847955:  93%|█████████▎| 93/100 [07:13<00:39,  5.65s/it]Best trial: 49. Best value: 0.847955:  93%|█████████▎| 93/100 [07:13<00:39,  5.65s/it]Best trial: 49. Best value: 0.847955:  94%|█████████▍| 94/100 [07:13<00:33,  5.50s/it]                                                                                      Best trial: 49. Best value: 0.847955:  94%|█████████▍| 94/100 [07:20<00:33,  5.50s/it]Best trial: 49. Best value: 0.847955:  94%|█████████▍| 94/100 [07:20<00:33,  5.50s/it]Best trial: 49. Best value: 0.847955:  95%|█████████▌| 95/100 [07:20<00:30,  6.11s/it]                                                                                      Best trial: 49. Best value: 0.847955:  95%|█████████▌| 95/100 [07:25<00:30,  6.11s/it]Best trial: 49. Best value: 0.847955:  95%|█████████▌| 95/100 [07:25<00:30,  6.11s/it]Best trial: 49. Best value: 0.847955:  96%|█████████▌| 96/100 [07:25<00:22,  5.59s/it]                                                                                      Best trial: 49. Best value: 0.847955:  96%|█████████▌| 96/100 [07:31<00:22,  5.59s/it]Best trial: 49. Best value: 0.847955:  96%|█████████▌| 96/100 [07:31<00:22,  5.59s/it]Best trial: 49. Best value: 0.847955:  97%|█████████▋| 97/100 [07:31<00:17,  5.94s/it]                                                                                      Best trial: 49. Best value: 0.847955:  97%|█████████▋| 97/100 [07:37<00:17,  5.94s/it]Best trial: 49. Best value: 0.847955:  97%|█████████▋| 97/100 [07:37<00:17,  5.94s/it]Best trial: 49. Best value: 0.847955:  98%|█████████▊| 98/100 [07:37<00:11,  5.87s/it]                                                                                      Best trial: 49. Best value: 0.847955:  98%|█████████▊| 98/100 [07:46<00:11,  5.87s/it]Best trial: 49. Best value: 0.847955:  98%|█████████▊| 98/100 [07:46<00:11,  5.87s/it]Best trial: 49. Best value: 0.847955:  99%|█████████▉| 99/100 [07:46<00:06,  6.85s/it]                                                                                      Best trial: 49. Best value: 0.847955:  99%|█████████▉| 99/100 [07:53<00:06,  6.85s/it]Best trial: 49. Best value: 0.847955:  99%|█████████▉| 99/100 [07:53<00:06,  6.85s/it]Best trial: 49. Best value: 0.847955: 100%|██████████| 100/100 [07:53<00:00,  6.94s/it]Best trial: 49. Best value: 0.847955: 100%|██████████| 100/100 [07:53<00:00,  4.74s/it]
+[I 2024-10-15 10:06:58,015] Trial 86 finished with value: 0.8483758033239116 and parameters: {'lambda': 0.016386412080029996, 'alpha': 0.0010167028206482405, 'subsample': 0.9389336384619346, 'colsample_bytree': 0.7308137518636815, 'max_depth': 4, 'learning_rate': 0.11848827554834386, 'n_estimators': 67}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:04,852] Trial 87 finished with value: 0.8483758436717725 and parameters: {'lambda': 0.22051699226668445, 'alpha': 0.0017807175374820023, 'subsample': 0.8228236468472351, 'colsample_bytree': 0.7134443837665552, 'max_depth': 4, 'learning_rate': 0.13756088176230954, 'n_estimators': 97}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:11,923] Trial 88 finished with value: 0.8481339185727301 and parameters: {'lambda': 0.008618160297795757, 'alpha': 9.107449361357709, 'subsample': 0.7933444332268538, 'colsample_bytree': 0.6829201941620412, 'max_depth': 5, 'learning_rate': 0.07786608815588586, 'n_estimators': 81}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:18,532] Trial 89 finished with value: 0.8499438568254514 and parameters: {'lambda': 0.09428978134630925, 'alpha': 4.811906088371539, 'subsample': 0.7835084910934929, 'colsample_bytree': 0.6964989504576754, 'max_depth': 5, 'learning_rate': 0.053892484233202115, 'n_estimators': 73}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:23,906] Trial 90 finished with value: 0.8682184738934969 and parameters: {'lambda': 0.005477853142136874, 'alpha': 1.0849719285265123, 'subsample': 0.8063043021820443, 'colsample_bytree': 0.49111999168870324, 'max_depth': 5, 'learning_rate': 0.07730549272751794, 'n_estimators': 82}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:30,318] Trial 91 finished with value: 0.8487556802315277 and parameters: {'lambda': 0.009232136659458958, 'alpha': 0.003522434328825313, 'subsample': 0.8620138897620059, 'colsample_bytree': 0.6815665452657048, 'max_depth': 4, 'learning_rate': 0.06680348447372325, 'n_estimators': 87}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:34,807] Trial 92 finished with value: 0.8672594435963162 and parameters: {'lambda': 0.007900396331839156, 'alpha': 0.007790104588613179, 'subsample': 0.8379542812742086, 'colsample_bytree': 0.6585307768072595, 'max_depth': 4, 'learning_rate': 0.1077325175820742, 'n_estimators': 80}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:39,952] Trial 93 finished with value: 0.8670627924916398 and parameters: {'lambda': 0.004283258779893283, 'alpha': 0.0017111991681988323, 'subsample': 0.77007209231667, 'colsample_bytree': 0.6352713640234804, 'max_depth': 4, 'learning_rate': 0.09818149283975701, 'n_estimators': 92}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:47,467] Trial 94 finished with value: 0.8484480486638839 and parameters: {'lambda': 0.02098517064815667, 'alpha': 2.053806801002668, 'subsample': 0.9624597418882153, 'colsample_bytree': 0.6978791766507361, 'max_depth': 5, 'learning_rate': 0.1310848233721465, 'n_estimators': 84}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:51,863] Trial 95 finished with value: 0.8678362186402685 and parameters: {'lambda': 0.013781480517288306, 'alpha': 0.0012633304435321325, 'subsample': 0.7931609862455032, 'colsample_bytree': 0.6154873835975803, 'max_depth': 4, 'learning_rate': 0.08573666603401926, 'n_estimators': 78}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:07:58,597] Trial 96 finished with value: 0.8488656241934726 and parameters: {'lambda': 0.002466196638854022, 'alpha': 0.0054770754167298135, 'subsample': 0.7572988956858545, 'colsample_bytree': 0.6676047209093773, 'max_depth': 5, 'learning_rate': 0.11212547035828255, 'n_estimators': 76}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:08:04,331] Trial 97 finished with value: 0.8485733662237367 and parameters: {'lambda': 0.052133604954765496, 'alpha': 0.002384336787221928, 'subsample': 0.8752260586741042, 'colsample_bytree': 0.7381003827299772, 'max_depth': 3, 'learning_rate': 0.12259599495543547, 'n_estimators': 100}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:08:13,450] Trial 98 finished with value: 0.8507370203458542 and parameters: {'lambda': 0.008600461618263517, 'alpha': 8.736528554291908, 'subsample': 0.9151777304401147, 'colsample_bytree': 0.7070246023503324, 'max_depth': 6, 'learning_rate': 0.03939571765631729, 'n_estimators': 86}. Best is trial 49 with value: 0.8479551493490314.
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+  Unique groups in CV: 375
+[I 2024-10-15 10:08:20,596] Trial 99 finished with value: 0.8481461982379731 and parameters: {'lambda': 0.17113489801274887, 'alpha': 0.0032092381228220317, 'subsample': 0.815261765893061, 'colsample_bytree': 0.7514445957506833, 'max_depth': 4, 'learning_rate': 0.09473984649189059, 'n_estimators': 95}. Best is trial 49 with value: 0.8479551493490314.
+[I 2024-10-25 11:12:00,444] A new study created in memory with name: no-name-723882ba-8196-40e3-9234-b1775cc5d19a
+  0%|          | 0/2 [00:00<?, ?it/s]                                       0%|          | 0/2 [00:00<?, ?it/s]Best trial: 0. Best value: 0.948819:   0%|          | 0/2 [00:00<?, ?it/s]Best trial: 0. Best value: 0.948819:  50%|█████     | 1/2 [00:00<00:00,  1.17it/s]                                                                                  Best trial: 0. Best value: 0.948819:  50%|█████     | 1/2 [00:03<00:00,  1.17it/s]Best trial: 1. Best value: 0.869828:  50%|█████     | 1/2 [00:03<00:00,  1.17it/s]Best trial: 1. Best value: 0.869828: 100%|██████████| 2/2 [00:03<00:00,  1.79s/it]Best trial: 1. Best value: 0.869828: 100%|██████████| 2/2 [00:03<00:00,  1.65s/it]
+  Unique groups in CV: 375
+0.9454463443355786
+  Unique groups in CV: 375
+0.9485359295729239
+  Unique groups in CV: 375
+0.9489290844208943
+  Unique groups in CV: 375
+0.9523641002246032
+4
+[I 2024-10-25 11:12:01,362] Trial 0 finished with value: 0.9488188646385 and parameters: {'lambda': 0.04656804637919568, 'alpha': 0.7608481233714796, 'subsample': 0.40006862489040695, 'colsample_bytree': 0.5813995435791038, 'max_depth': 3, 'learning_rate': 0.02860923983587054, 'n_estimators': 21}. Best is trial 0 with value: 0.9488188646385.
+  Unique groups in CV: 375
+0.8462194855475518
+  Unique groups in CV: 375
+0.8852852224195981
+  Unique groups in CV: 375
+0.8647159581037618
+  Unique groups in CV: 375
+0.8830910593297194
+4
+[I 2024-10-25 11:12:03,803] Trial 1 finished with value: 0.8698279313501578 and parameters: {'lambda': 0.024112537061475744, 'alpha': 0.03864291653552653, 'subsample': 0.7232900404020142, 'colsample_bytree': 0.6515167086419769, 'max_depth': 8, 'learning_rate': 0.062131222669723714, 'n_estimators': 89}. Best is trial 1 with value: 0.8698279313501578.
